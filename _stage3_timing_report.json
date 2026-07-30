@@ -1,0 +1,2072 @@
+{
+  "version": 1,
+  "page_count": 91,
+  "total_page_seconds": 296.861,
+  "average_page_seconds": 3.2622,
+  "phase_totals_seconds": {
+    "monetization": 165.6516,
+    "internal_links": 56.9735,
+    "media_svg": 33.0783,
+    "content_assembly": 28.6493,
+    "youtube": 5.261,
+    "quality_write": 3.8754,
+    "content_cleanup_final": 2.0261,
+    "preparation": 1.3014,
+    "content_cleanup_initial": 0.0446
+  },
+  "slowest_pages": [
+    {
+      "base_name": "ufo_report_databases_8352a3",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 11.666,
+      "phases": {
+        "preparation": 0.0194,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 0.6948,
+        "content_cleanup_final": 0.051,
+        "media_svg": 0.1485,
+        "youtube": 1.4513,
+        "content_assembly": 0.4073,
+        "monetization": 8.8397,
+        "quality_write": 0.0529
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 11.4518,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.6248,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.4431,
+        "youtube": 1.3861,
+        "content_assembly": 0.3371,
+        "monetization": 8.5698,
+        "quality_write": 0.0472
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_mufon_case_access_105270",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 10.9424,
+      "phases": {
+        "preparation": 0.0214,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.6995,
+        "content_cleanup_final": 0.0353,
+        "media_svg": 0.1116,
+        "youtube": 0.0168,
+        "content_assembly": 0.3855,
+        "monetization": 9.618,
+        "quality_write": 0.0537
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_us_ufo_archives_130466_uap_redacted_postpon_7410dc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 9.0499,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.6646,
+        "content_cleanup_final": 0.0226,
+        "media_svg": 0.2865,
+        "youtube": 0.0119,
+        "content_assembly": 0.3216,
+        "monetization": 7.6831,
+        "quality_write": 0.0419
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_database_resc_0aaf9a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.3454,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.5893,
+        "content_cleanup_final": 0.0198,
+        "media_svg": 0.71,
+        "youtube": 0.0107,
+        "content_assembly": 0.2903,
+        "monetization": 5.6866,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_british_ufo_files_17629d_raf_ufo_searches_956678",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.2215,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6272,
+        "content_cleanup_final": 0.0209,
+        "media_svg": 0.2497,
+        "youtube": 0.0103,
+        "content_assembly": 0.3034,
+        "monetization": 5.9529,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_one_event_many_recor_d84564",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.4144,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6047,
+        "content_cleanup_final": 0.0171,
+        "media_svg": 0.696,
+        "youtube": 0.0099,
+        "content_assembly": 0.2877,
+        "monetization": 4.7427,
+        "quality_write": 0.0397
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.3661,
+      "phases": {
+        "preparation": 0.0218,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.6461,
+        "content_cleanup_final": 0.0339,
+        "media_svg": 0.1028,
+        "youtube": 1.4402,
+        "content_assembly": 0.3962,
+        "monetization": 3.6755,
+        "quality_write": 0.0488
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_ufo_viewing_geometry_3112a8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.8478,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6309,
+        "content_cleanup_final": 0.0237,
+        "media_svg": 0.7107,
+        "youtube": 0.0097,
+        "content_assembly": 0.3021,
+        "monetization": 4.1314,
+        "quality_write": 0.0387
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_shag_harbour_records_3effaf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.5507,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6099,
+        "content_cleanup_final": 0.019,
+        "media_svg": 0.2799,
+        "youtube": 0.0102,
+        "content_assembly": 0.3051,
+        "monetization": 4.27,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_cold_war_blue_book_r_143ae8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.543,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6109,
+        "content_cleanup_final": 0.0218,
+        "media_svg": 0.2589,
+        "youtube": 0.012,
+        "content_assembly": 0.296,
+        "monetization": 4.2871,
+        "quality_write": 0.0399
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.4714,
+      "phases": {
+        "preparation": 0.021,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.674,
+        "content_cleanup_final": 0.0316,
+        "media_svg": 0.109,
+        "youtube": 0.0145,
+        "content_assembly": 0.402,
+        "monetization": 4.1585,
+        "quality_write": 0.0599
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_media_reporting_2b6892",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.1773,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6065,
+        "content_cleanup_final": 0.015,
+        "media_svg": 0.2592,
+        "youtube": 0.0105,
+        "content_assembly": 0.2946,
+        "monetization": 3.9371,
+        "quality_write": 0.0381
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_starlink_pilot_sight_009d01",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9968,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6058,
+        "content_cleanup_final": 0.0154,
+        "media_svg": 0.7023,
+        "youtube": 0.0095,
+        "content_assembly": 0.2953,
+        "monetization": 3.3272,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_airspace_hotspot_con_b008dc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.8237,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6048,
+        "content_cleanup_final": 0.0191,
+        "media_svg": 0.2501,
+        "youtube": 0.0102,
+        "content_assembly": 0.2895,
+        "monetization": 3.5948,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7838,
+      "phases": {
+        "preparation": 0.0216,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.6531,
+        "content_cleanup_final": 0.0332,
+        "media_svg": 0.1955,
+        "youtube": 0.0123,
+        "content_assembly": 0.3997,
+        "monetization": 3.4161,
+        "quality_write": 0.0517
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_ufo_video_missing_me_b7f6f6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7591,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6179,
+        "content_cleanup_final": 0.02,
+        "media_svg": 0.6543,
+        "youtube": 0.0115,
+        "content_assembly": 0.302,
+        "monetization": 3.1122,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_us_ufo_archives_130466_nara_uap_bulk_downlo_87c286",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5575,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6078,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.2598,
+        "youtube": 0.0107,
+        "content_assembly": 0.2896,
+        "monetization": 3.3151,
+        "quality_write": 0.0399
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_civilian_vs_governme_d4f84c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.521,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6227,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.63,
+        "youtube": 0.0031,
+        "content_assembly": 0.2922,
+        "monetization": 2.9164,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_aircraft_reco_149fc4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.4222,
+      "phases": {
+        "preparation": 0.0164,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6313,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.2505,
+        "youtube": 0.011,
+        "content_assembly": 0.3101,
+        "monetization": 3.1335,
+        "quality_write": 0.0514
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.3661,
+      "phases": {
+        "preparation": 0.0218,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.6461,
+        "content_cleanup_final": 0.0339,
+        "media_svg": 0.1028,
+        "youtube": 1.4402,
+        "content_assembly": 0.3962,
+        "monetization": 3.6755,
+        "quality_write": 0.0488
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 11.666,
+      "phases": {
+        "preparation": 0.0194,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 0.6948,
+        "content_cleanup_final": 0.051,
+        "media_svg": 0.1485,
+        "youtube": 1.4513,
+        "content_assembly": 0.4073,
+        "monetization": 8.8397,
+        "quality_write": 0.0529
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4855,
+      "phases": {
+        "preparation": 0.0204,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.7273,
+        "content_cleanup_final": 0.0432,
+        "media_svg": 0.3001,
+        "youtube": 0.0125,
+        "content_assembly": 0.4449,
+        "monetization": 1.8775,
+        "quality_write": 0.0586
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4464,
+      "phases": {
+        "preparation": 0.0219,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.6956,
+        "content_cleanup_final": 0.0577,
+        "media_svg": 0.0657,
+        "youtube": 0.0121,
+        "content_assembly": 0.4334,
+        "monetization": 0.104,
+        "quality_write": 0.0552
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4004,
+      "phases": {
+        "preparation": 0.0236,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.6656,
+        "content_cleanup_final": 0.035,
+        "media_svg": 0.1031,
+        "youtube": 0.0136,
+        "content_assembly": 0.4055,
+        "monetization": 0.098,
+        "quality_write": 0.0549
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 11.4518,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.6248,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.4431,
+        "youtube": 1.3861,
+        "content_assembly": 0.3371,
+        "monetization": 8.5698,
+        "quality_write": 0.0472
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8081,
+      "phases": {
+        "preparation": 0.0215,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.6539,
+        "content_cleanup_final": 0.0374,
+        "media_svg": 0.5452,
+        "youtube": 0.012,
+        "content_assembly": 0.3753,
+        "monetization": 0.1113,
+        "quality_write": 0.0508
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.5296,
+      "phases": {
+        "preparation": 0.0193,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 0.6994,
+        "content_cleanup_final": 0.0469,
+        "media_svg": 0.1084,
+        "youtube": 0.0125,
+        "content_assembly": 0.4807,
+        "monetization": 0.1,
+        "quality_write": 0.0613
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3203,
+      "phases": {
+        "preparation": 0.0198,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.6558,
+        "content_cleanup_final": 0.0319,
+        "media_svg": 0.065,
+        "youtube": 0.0145,
+        "content_assembly": 0.3863,
+        "monetization": 0.095,
+        "quality_write": 0.0514
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5508,
+      "phases": {
+        "preparation": 0.0202,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.6403,
+        "content_cleanup_final": 0.034,
+        "media_svg": 0.1078,
+        "youtube": 0.0096,
+        "content_assembly": 0.3803,
+        "monetization": 1.3043,
+        "quality_write": 0.0536
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3471,
+      "phases": {
+        "preparation": 0.0214,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.6643,
+        "content_cleanup_final": 0.0327,
+        "media_svg": 0.0779,
+        "youtube": 0.0134,
+        "content_assembly": 0.3816,
+        "monetization": 0.0993,
+        "quality_write": 0.0559
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_mufon_case_access_105270",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 10.9424,
+      "phases": {
+        "preparation": 0.0214,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.6995,
+        "content_cleanup_final": 0.0353,
+        "media_svg": 0.1116,
+        "youtube": 0.0168,
+        "content_assembly": 0.3855,
+        "monetization": 9.618,
+        "quality_write": 0.0537
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.4714,
+      "phases": {
+        "preparation": 0.021,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.674,
+        "content_cleanup_final": 0.0316,
+        "media_svg": 0.109,
+        "youtube": 0.0145,
+        "content_assembly": 0.402,
+        "monetization": 4.1585,
+        "quality_write": 0.0599
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3828,
+      "phases": {
+        "preparation": 0.0198,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.6615,
+        "content_cleanup_final": 0.0294,
+        "media_svg": 0.1314,
+        "youtube": 0.0132,
+        "content_assembly": 0.3734,
+        "monetization": 0.0997,
+        "quality_write": 0.0538
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7123,
+      "phases": {
+        "preparation": 0.0201,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.689,
+        "content_cleanup_final": 0.044,
+        "media_svg": 0.1291,
+        "youtube": 0.0107,
+        "content_assembly": 0.4366,
+        "monetization": 1.3258,
+        "quality_write": 0.0562
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_search_radius_61e66a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3492,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6167,
+        "content_cleanup_final": 0.0207,
+        "media_svg": 0.2529,
+        "youtube": 0.0129,
+        "content_assembly": 0.2974,
+        "monetization": 0.0931,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7838,
+      "phases": {
+        "preparation": 0.0216,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.6531,
+        "content_cleanup_final": 0.0332,
+        "media_svg": 0.1955,
+        "youtube": 0.0123,
+        "content_assembly": 0.3997,
+        "monetization": 3.4161,
+        "quality_write": 0.0517
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_database_map_differe_682c2b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3541,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6216,
+        "content_cleanup_final": 0.0199,
+        "media_svg": 0.2521,
+        "youtube": 0.0109,
+        "content_assembly": 0.3036,
+        "monetization": 0.0908,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_false_hotspots_geoco_3769a3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3195,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.5991,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.246,
+        "youtube": 0.0112,
+        "content_assembly": 0.2978,
+        "monetization": 0.0914,
+        "quality_write": 0.0381
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_rural_rate_small_num_d5a8f6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3511,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6092,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.2564,
+        "youtube": 0.0113,
+        "content_assembly": 0.2982,
+        "monetization": 0.0974,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_british_ufo_files_17629d_raf_ufo_searches_956678",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.2215,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6272,
+        "content_cleanup_final": 0.0209,
+        "media_svg": 0.2497,
+        "youtube": 0.0103,
+        "content_assembly": 0.3034,
+        "monetization": 5.9529,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_airspace_hotspot_con_b008dc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.8237,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6048,
+        "content_cleanup_final": 0.0191,
+        "media_svg": 0.2501,
+        "youtube": 0.0102,
+        "content_assembly": 0.2895,
+        "monetization": 3.5948,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_time_filters_event_c_7d15a4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.342,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6154,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.2484,
+        "youtube": 0.0095,
+        "content_assembly": 0.298,
+        "monetization": 0.0955,
+        "quality_write": 0.0402
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_us_ufo_archives_130466_jal_1628_faa_archive_ddbdd2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.509,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6141,
+        "content_cleanup_final": 0.0171,
+        "media_svg": 0.2622,
+        "youtube": 0.0114,
+        "content_assembly": 0.2993,
+        "monetization": 1.2492,
+        "quality_write": 0.0392
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_us_ufo_archives_130466_nara_uap_bulk_downlo_87c286",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5575,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6078,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.2598,
+        "youtube": 0.0107,
+        "content_assembly": 0.2896,
+        "monetization": 3.3151,
+        "quality_write": 0.0399
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_us_ufo_archives_130466_record_group_615_acc_6fee98",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9998,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6025,
+        "content_cleanup_final": 0.0149,
+        "media_svg": 0.2599,
+        "youtube": 0.0102,
+        "content_assembly": 0.2839,
+        "monetization": 2.7728,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_us_ufo_archives_130466_search_beyond_blue_b_f770d7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3204,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6575,
+        "content_cleanup_final": 0.0233,
+        "media_svg": 0.28,
+        "youtube": 0.0111,
+        "content_assembly": 0.3077,
+        "monetization": 1.9798,
+        "quality_write": 0.0449
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_british_ufo_files_17629d_overseas_ufo_diploma_bc70f7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4174,
+      "phases": {
+        "preparation": 0.0165,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.653,
+        "content_cleanup_final": 0.0245,
+        "media_svg": 0.2589,
+        "youtube": 0.0115,
+        "content_assembly": 0.3151,
+        "monetization": 0.0942,
+        "quality_write": 0.0432
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_british_ufo_files_17629d_mod_ufo_file_purpose_c67c22",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6909,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6883,
+        "content_cleanup_final": 0.0267,
+        "media_svg": 0.2681,
+        "youtube": 0.0126,
+        "content_assembly": 0.3028,
+        "monetization": 1.3338,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_british_ufo_files_17629d_weather_ufo_explanat_ec53bb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3804,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.6308,
+        "content_cleanup_final": 0.0251,
+        "media_svg": 0.2466,
+        "youtube": 0.0099,
+        "content_assembly": 0.3175,
+        "monetization": 0.0919,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_british_ufo_files_17629d_rendlesham_record_tr_be077b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5971,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6322,
+        "content_cleanup_final": 0.0224,
+        "media_svg": 0.253,
+        "youtube": 0.0115,
+        "content_assembly": 0.314,
+        "monetization": 1.3028,
+        "quality_write": 0.0447
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_case_file_qual_fa0ff7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1396,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6258,
+        "content_cleanup_final": 0.021,
+        "media_svg": 0.2523,
+        "youtube": 0.0109,
+        "content_assembly": 0.2986,
+        "monetization": 2.8704,
+        "quality_write": 0.044
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_historic_recor_ebc7d2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8564,
+      "phases": {
+        "preparation": 0.0164,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6216,
+        "content_cleanup_final": 0.0221,
+        "media_svg": 0.2495,
+        "youtube": 0.0103,
+        "content_assembly": 0.2887,
+        "monetization": 2.608,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_us_ufo_archives_130466_uap_redacted_postpon_7410dc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 9.0499,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.6646,
+        "content_cleanup_final": 0.0226,
+        "media_svg": 0.2865,
+        "youtube": 0.0119,
+        "content_assembly": 0.3216,
+        "monetization": 7.6831,
+        "quality_write": 0.0419
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_investigator_c_6fc4df",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3852,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6224,
+        "content_cleanup_final": 0.0205,
+        "media_svg": 0.2719,
+        "youtube": 0.0124,
+        "content_assembly": 0.3002,
+        "monetization": 0.0983,
+        "quality_write": 0.0432
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_unexplained_la_a80dee",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3648,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.628,
+        "content_cleanup_final": 0.0221,
+        "media_svg": 0.255,
+        "youtube": 0.013,
+        "content_assembly": 0.2921,
+        "monetization": 0.0969,
+        "quality_write": 0.0413
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_independent_vs_dupli_9f5360",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3626,
+      "phases": {
+        "preparation": 0.0163,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6242,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.2501,
+        "youtube": 0.0123,
+        "content_assembly": 0.298,
+        "monetization": 0.0985,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_member_databas_c76000",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4242,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6147,
+        "content_cleanup_final": 0.0134,
+        "media_svg": 0.2583,
+        "youtube": 0.0102,
+        "content_assembly": 0.2831,
+        "monetization": 2.1892,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_date_time_zone_s_c0a85a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.336,
+      "phases": {
+        "preparation": 0.0165,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6033,
+        "content_cleanup_final": 0.0174,
+        "media_svg": 0.255,
+        "youtube": 0.0089,
+        "content_assembly": 0.2955,
+        "monetization": 0.0994,
+        "quality_write": 0.0396
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_airfield_archive_caa348",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6412,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6179,
+        "content_cleanup_final": 0.0234,
+        "media_svg": 0.2488,
+        "youtube": 0.0109,
+        "content_assembly": 0.3007,
+        "monetization": 1.3819,
+        "quality_write": 0.0411
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_newspaper_date_s_8218f8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3003,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.5987,
+        "content_cleanup_final": 0.0122,
+        "media_svg": 0.2527,
+        "youtube": 0.0117,
+        "content_assembly": 0.2748,
+        "monetization": 0.0953,
+        "quality_write": 0.0384
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_pilot_ufo_reporting_f9297e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3573,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6178,
+        "content_cleanup_final": 0.0214,
+        "media_svg": 0.2481,
+        "youtube": 0.0089,
+        "content_assembly": 0.3036,
+        "monetization": 0.1,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_ufo_memory_reconstru_bfe8d3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.7681,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6221,
+        "content_cleanup_final": 0.0199,
+        "media_svg": 0.6601,
+        "youtube": 0.0099,
+        "content_assembly": 0.3036,
+        "monetization": 0.0943,
+        "quality_write": 0.0419
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_online_ufo_reporting_918f16",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3633,
+      "phases": {
+        "preparation": 0.0163,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6196,
+        "content_cleanup_final": 0.021,
+        "media_svg": 0.2466,
+        "youtube": 0.0119,
+        "content_assembly": 0.293,
+        "monetization": 1.1182,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_confidential_ufo_rep_f05dc1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9028,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6178,
+        "content_cleanup_final": 0.0237,
+        "media_svg": 0.2514,
+        "youtube": 0.0094,
+        "content_assembly": 0.2991,
+        "monetization": 2.6444,
+        "quality_write": 0.04
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_ufo_reports_per_capi_074a6e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3246,
+      "phases": {
+        "preparation": 0.0164,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6004,
+        "content_cleanup_final": 0.0192,
+        "media_svg": 0.2416,
+        "youtube": 0.0121,
+        "content_assembly": 0.302,
+        "monetization": 0.0946,
+        "quality_write": 0.0378
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_choose_ufo_database_813b14",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.7989,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6137,
+        "content_cleanup_final": 0.013,
+        "media_svg": 0.7224,
+        "youtube": 0.0122,
+        "content_assembly": 0.2838,
+        "monetization": 0.0973,
+        "quality_write": 0.0405
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_infrared_ufo_sensor_4eaa20",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4284,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6094,
+        "content_cleanup_final": 0.0188,
+        "media_svg": 0.6809,
+        "youtube": 0.0116,
+        "content_assembly": 0.3007,
+        "monetization": 1.7639,
+        "quality_write": 0.0425
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_blue_book_701_cases_f37369",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4487,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6269,
+        "content_cleanup_final": 0.0241,
+        "media_svg": 0.2535,
+        "youtube": 0.0135,
+        "content_assembly": 0.2954,
+        "monetization": 1.1734,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_media_reporting_2b6892",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.1773,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6065,
+        "content_cleanup_final": 0.015,
+        "media_svg": 0.2592,
+        "youtube": 0.0105,
+        "content_assembly": 0.2946,
+        "monetization": 3.9371,
+        "quality_write": 0.0381
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_falcon_lake_unresolv_7c8177",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3865,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.617,
+        "content_cleanup_final": 0.0186,
+        "media_svg": 0.2559,
+        "youtube": 0.0105,
+        "content_assembly": 0.3012,
+        "monetization": 1.1226,
+        "quality_write": 0.0443
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_project_magnet_propu_ed49e6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3395,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6038,
+        "content_cleanup_final": 0.0214,
+        "media_svg": 0.2488,
+        "youtube": 0.0115,
+        "content_assembly": 0.2977,
+        "monetization": 0.0976,
+        "quality_write": 0.0423
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_canada_ufo_agency_tr_676eb4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3254,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6065,
+        "content_cleanup_final": 0.0227,
+        "media_svg": 0.2702,
+        "youtube": 0.0138,
+        "content_assembly": 0.2988,
+        "monetization": 3.0562,
+        "quality_write": 0.0407
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_duplicate_ufo_report_b7ead3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.7936,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.612,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.7089,
+        "youtube": 0.0112,
+        "content_assembly": 0.2951,
+        "monetization": 0.0921,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_second_storey_larger_306db3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3892,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6157,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.2527,
+        "youtube": 0.0107,
+        "content_assembly": 0.3013,
+        "monetization": 3.1363,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_ufo_archive_search_t_73088b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.792,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6116,
+        "content_cleanup_final": 0.0245,
+        "media_svg": 0.687,
+        "youtube": 0.0114,
+        "content_assembly": 0.3064,
+        "monetization": 0.0931,
+        "quality_write": 0.0419
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_ufo_case_counting_un_602ca2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.7567,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6108,
+        "content_cleanup_final": 0.0127,
+        "media_svg": 0.6871,
+        "youtube": 0.0108,
+        "content_assembly": 0.2855,
+        "monetization": 0.0935,
+        "quality_write": 0.04
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_shag_harbour_records_3effaf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.5507,
+      "phases": {
+        "preparation": 0.0158,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6099,
+        "content_cleanup_final": 0.019,
+        "media_svg": 0.2799,
+        "youtube": 0.0102,
+        "content_assembly": 0.3051,
+        "monetization": 4.27,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_unexplained_rate_com_d3f69a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.7373,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.607,
+        "content_cleanup_final": 0.0178,
+        "media_svg": 0.6602,
+        "youtube": 0.0104,
+        "content_assembly": 0.2895,
+        "monetization": 0.0959,
+        "quality_write": 0.0405
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_duplicate_reports_fa_46fced",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.7632,
+      "phases": {
+        "preparation": 0.0154,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6197,
+        "content_cleanup_final": 0.0128,
+        "media_svg": 0.6808,
+        "youtube": 0.0124,
+        "content_assembly": 0.2835,
+        "monetization": 0.0988,
+        "quality_write": 0.0395
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_matching_duplicate_u_f9ff9e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8299,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6074,
+        "content_cleanup_final": 0.02,
+        "media_svg": 0.6675,
+        "youtube": 0.0077,
+        "content_assembly": 0.2977,
+        "monetization": 1.1725,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_ufocat_rows_vs_event_a4ba5f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8393,
+      "phases": {
+        "preparation": 0.0164,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6154,
+        "content_cleanup_final": 0.0171,
+        "media_svg": 0.7211,
+        "youtube": 0.0113,
+        "content_assembly": 0.2964,
+        "monetization": 1.1265,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_witnesses_vs_event_c_4fd821",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.4023,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6052,
+        "content_cleanup_final": 0.0139,
+        "media_svg": 0.6867,
+        "youtube": 0.0112,
+        "content_assembly": 0.2856,
+        "monetization": 2.7443,
+        "quality_write": 0.0392
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_one_event_many_recor_d84564",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.4144,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6047,
+        "content_cleanup_final": 0.0171,
+        "media_svg": 0.696,
+        "youtube": 0.0099,
+        "content_assembly": 0.2877,
+        "monetization": 4.7427,
+        "quality_write": 0.0397
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_aircraft_reco_149fc4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.4222,
+      "phases": {
+        "preparation": 0.0164,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6313,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.2505,
+        "youtube": 0.011,
+        "content_assembly": 0.3101,
+        "monetization": 3.1335,
+        "quality_write": 0.0514
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_class_c_limit_97f2e3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8956,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6063,
+        "content_cleanup_final": 0.0185,
+        "media_svg": 0.2606,
+        "youtube": 0.0111,
+        "content_assembly": 0.2986,
+        "monetization": 1.6422,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_case_reclassi_0a8a89",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4729,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6059,
+        "content_cleanup_final": 0.0155,
+        "media_svg": 0.2699,
+        "youtube": 0.0112,
+        "content_assembly": 0.2984,
+        "monetization": 2.2197,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_class_d_thres_4f8179",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5026,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6147,
+        "content_cleanup_final": 0.0172,
+        "media_svg": 0.2484,
+        "youtube": 0.0108,
+        "content_assembly": 0.2965,
+        "monetization": 1.2558,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_gofast_motion_parall_80b7dc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.6831,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6105,
+        "content_cleanup_final": 0.0175,
+        "media_svg": 0.6683,
+        "youtube": 0.0122,
+        "content_assembly": 0.2981,
+        "monetization": 0.0379,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_statistics_me_2e21de",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9693,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6024,
+        "content_cleanup_final": 0.016,
+        "media_svg": 0.2581,
+        "youtube": 0.0105,
+        "content_assembly": 0.2969,
+        "monetization": 2.7279,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_starlink_pilot_sight_009d01",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9968,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6058,
+        "content_cleanup_final": 0.0154,
+        "media_svg": 0.7023,
+        "youtube": 0.0095,
+        "content_assembly": 0.2953,
+        "monetization": 3.3272,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_ufo_unresolved_perce_b08405",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2553,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6089,
+        "content_cleanup_final": 0.0127,
+        "media_svg": 0.6215,
+        "youtube": 0.0113,
+        "content_assembly": 0.2788,
+        "monetization": 2.6821,
+        "quality_write": 0.0396
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_nuforc_report_limits_750bea_nuforc_review_verifi_74ea56",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3341,
+      "phases": {
+        "preparation": 0.0163,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.61,
+        "content_cleanup_final": 0.0146,
+        "media_svg": 0.2583,
+        "youtube": 0.0107,
+        "content_assembly": 0.2859,
+        "monetization": 0.0979,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_event_vs_submiss_9cae65",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3654,
+      "phases": {
+        "preparation": 0.0163,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6151,
+        "content_cleanup_final": 0.0182,
+        "media_svg": 0.2556,
+        "youtube": 0.0123,
+        "content_assembly": 0.2968,
+        "monetization": 0.11,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_ufo_video_missing_me_b7f6f6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7591,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6179,
+        "content_cleanup_final": 0.02,
+        "media_svg": 0.6543,
+        "youtube": 0.0115,
+        "content_assembly": 0.302,
+        "monetization": 3.1122,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_reporting_self_s_6473cc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.3611,
+      "phases": {
+        "preparation": 0.016,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6145,
+        "content_cleanup_final": 0.0223,
+        "media_svg": 0.2637,
+        "youtube": 0.0089,
+        "content_assembly": 0.2928,
+        "monetization": 0.1015,
+        "quality_write": 0.0411
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_blue_book_investigat_173df9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8495,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6117,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.2475,
+        "youtube": 0.0113,
+        "content_assembly": 0.2942,
+        "monetization": 0.6138,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_hotspots_sky_vis_26efa5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4158,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.626,
+        "content_cleanup_final": 0.0182,
+        "media_svg": 0.2418,
+        "youtube": 0.011,
+        "content_assembly": 0.2999,
+        "monetization": 2.1636,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_blue_book_unidentifi_813264",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0084,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6133,
+        "content_cleanup_final": 0.0166,
+        "media_svg": 0.2564,
+        "youtube": 0.0112,
+        "content_assembly": 0.2859,
+        "monetization": 0.7678,
+        "quality_write": 0.0402
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_special_report_14_de_2846d7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3393,
+      "phases": {
+        "preparation": 0.0165,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6286,
+        "content_cleanup_final": 0.0265,
+        "media_svg": 0.2545,
+        "youtube": 0.0105,
+        "content_assembly": 0.2995,
+        "monetization": 1.0648,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_independent_ufo_witn_60026e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.7339,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6163,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.6658,
+        "youtube": 0.0098,
+        "content_assembly": 0.2909,
+        "monetization": 0.0947,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_blue_book_file_layer_0693b7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.4029,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6185,
+        "content_cleanup_final": 0.018,
+        "media_svg": 0.7094,
+        "youtube": 0.0115,
+        "content_assembly": 0.2977,
+        "monetization": 2.7088,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_cold_war_blue_book_r_143ae8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.543,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6109,
+        "content_cleanup_final": 0.0218,
+        "media_svg": 0.2589,
+        "youtube": 0.012,
+        "content_assembly": 0.296,
+        "monetization": 4.2871,
+        "quality_write": 0.0399
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_ufo_distance_size_sp_dcf2fd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.7252,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6064,
+        "content_cleanup_final": 0.0205,
+        "media_svg": 0.6532,
+        "youtube": 0.0111,
+        "content_assembly": 0.298,
+        "monetization": 0.0958,
+        "quality_write": 0.0397
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_unexplained_ufo_mean_3c36bb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.7982,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6275,
+        "content_cleanup_final": 0.0244,
+        "media_svg": 0.6878,
+        "youtube": 0.011,
+        "content_assembly": 0.3065,
+        "monetization": 0.0963,
+        "quality_write": 0.0442
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_civilian_vs_governme_d4f84c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.521,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6227,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.63,
+        "youtube": 0.0031,
+        "content_assembly": 0.2922,
+        "monetization": 2.9164,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_ufo_viewing_geometry_3112a8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.8478,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.6309,
+        "content_cleanup_final": 0.0237,
+        "media_svg": 0.7107,
+        "youtube": 0.0097,
+        "content_assembly": 0.3021,
+        "monetization": 4.1314,
+        "quality_write": 0.0387
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_duplicate_ent_6243a0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.6638,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.5945,
+        "content_cleanup_final": 0.0071,
+        "media_svg": 0.6945,
+        "youtube": 0.0097,
+        "content_assembly": 0.2654,
+        "monetization": 0.0593,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_source_access_68fc8c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6471,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.595,
+        "content_cleanup_final": 0.0131,
+        "media_svg": 0.686,
+        "youtube": 0.0108,
+        "content_assembly": 0.2878,
+        "monetization": 2.0185,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_database_resc_0aaf9a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.3454,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.5893,
+        "content_cleanup_final": 0.0198,
+        "media_svg": 0.71,
+        "youtube": 0.0107,
+        "content_assembly": 0.2903,
+        "monetization": 5.6866,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_source_trails_b14a56",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3542,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.6113,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.7253,
+        "youtube": 0.0106,
+        "content_assembly": 0.2885,
+        "monetization": 2.6645,
+        "quality_write": 0.0356
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 91,
+    "reused_pages": 0,
+    "rebuilt_pages": 91,
+    "error_pages": 0,
+    "page_work_wall_seconds": 109.0875,
+    "rebuilt_pages_per_minute": 50.0516,
+    "queued_rebuild_pages_per_minute": 50.0516,
+    "apparent_page_work_speedup": 2.7213,
+    "youtube_cache_prepare": {
+      "entries": 45640,
+      "updated": true,
+      "elapsed_seconds": 2.871
+    },
+    "process_worker_diagnostics": {
+      "completed_pages": 91,
+      "successful_pages": 91,
+      "failed_pages": 0,
+      "worker_summary": {
+        "20064": {
+          "pages": 37,
+          "successes": 37,
+          "failures": 0,
+          "total_worker_seconds": 99.4622,
+          "max_worker_seconds": 6.4095,
+          "last_base_name": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_source_access_68fc8c"
+        },
+        "20912": {
+          "pages": 23,
+          "successes": 23,
+          "failures": 0,
+          "total_worker_seconds": 101.6513,
+          "max_worker_seconds": 11.7071,
+          "last_base_name": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_database_resc_0aaf9a"
+        },
+        "23592": {
+          "pages": 31,
+          "successes": 31,
+          "failures": 0,
+          "total_worker_seconds": 99.4933,
+          "max_worker_seconds": 11.4936,
+          "last_base_name": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_source_trails_b14a56"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "ufo_report_databases_8352a3",
+          "level": 1,
+          "success": true,
+          "worker_pid": 20912,
+          "worker_duration_seconds": 11.7071,
+          "total_seconds": 11.666,
+          "worker_started_at_utc": "2026-07-30T15:20:24.964470Z",
+          "worker_finished_at_utc": "2026-07-30T15:20:36.630478Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+          "level": 2,
+          "success": true,
+          "worker_pid": 23592,
+          "worker_duration_seconds": 11.4936,
+          "total_seconds": 11.4518,
+          "worker_started_at_utc": "2026-07-30T15:20:29.138911Z",
+          "worker_finished_at_utc": "2026-07-30T15:20:40.590756Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufo_report_databases_8352a3_mufon_case_access_105270",
+          "level": 2,
+          "success": true,
+          "worker_pid": 20912,
+          "worker_duration_seconds": 10.9844,
+          "total_seconds": 10.9424,
+          "worker_started_at_utc": "2026-07-30T15:20:36.672151Z",
+          "worker_finished_at_utc": "2026-07-30T15:20:47.614611Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufo_report_databases_8352a3_us_ufo_archives_130466_uap_redacted_postpon_7410dc",
+          "level": 3,
+          "success": true,
+          "worker_pid": 20912,
+          "worker_duration_seconds": 9.0907,
+          "total_seconds": 9.0499,
+          "worker_started_at_utc": "2026-07-30T15:21:01.265805Z",
+          "worker_finished_at_utc": "2026-07-30T15:21:10.315770Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_database_resc_0aaf9a",
+          "level": 3,
+          "success": true,
+          "worker_pid": 20912,
+          "worker_duration_seconds": 7.3845,
+          "total_seconds": 7.3454,
+          "worker_started_at_utc": "2026-07-30T15:21:59.252349Z",
+          "worker_finished_at_utc": "2026-07-30T15:22:06.597768Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufo_report_databases_8352a3_british_ufo_files_17629d_raf_ufo_searches_956678",
+          "level": 3,
+          "success": true,
+          "worker_pid": 23592,
+          "worker_duration_seconds": 7.2604,
+          "total_seconds": 7.2215,
+          "worker_started_at_utc": "2026-07-30T15:20:49.145242Z",
+          "worker_finished_at_utc": "2026-07-30T15:20:56.366744Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_one_event_many_recor_d84564",
+          "level": 3,
+          "success": true,
+          "worker_pid": 20912,
+          "worker_duration_seconds": 6.4538,
+          "total_seconds": 6.4144,
+          "worker_started_at_utc": "2026-07-30T15:21:31.675886Z",
+          "worker_finished_at_utc": "2026-07-30T15:21:38.090273Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+          "level": 2,
+          "success": true,
+          "worker_pid": 20064,
+          "worker_duration_seconds": 6.4095,
+          "total_seconds": 6.3661,
+          "worker_started_at_utc": "2026-07-30T15:20:27.052515Z",
+          "worker_finished_at_utc": "2026-07-30T15:20:33.418698Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_ufo_viewing_geometry_3112a8",
+          "level": 3,
+          "success": true,
+          "worker_pid": 20064,
+          "worker_duration_seconds": 5.8863,
+          "total_seconds": 5.8478,
+          "worker_started_at_utc": "2026-07-30T15:21:56.967945Z",
+          "worker_finished_at_utc": "2026-07-30T15:22:02.815834Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_cold_war_blue_book_r_143ae8",
+          "level": 3,
+          "success": true,
+          "worker_pid": 20912,
+          "worker_duration_seconds": 5.594,
+          "total_seconds": 5.543,
+          "worker_started_at_utc": "2026-07-30T15:21:51.818715Z",
+          "worker_finished_at_utc": "2026-07-30T15:21:57.361701Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

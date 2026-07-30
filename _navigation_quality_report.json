@@ -1,0 +1,2346 @@
+{
+  "generated_at_utc": "2026-07-30T15:22:21.045876Z",
+  "summary": {
+    "total_pages_with_permalink": 107,
+    "visible_pages": 91,
+    "hidden_pages": 16,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 451,
+    "inline_internal_target_page_count": 91,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 91,
+    "visible_pages_without_inline_outbound_links": 0,
+    "average_inline_inbound_links_per_visible_page": 4.96,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 91,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "ufo_report_databases_8352a3",
+        "title": "UFO Report Databases",
+        "permalink": "/ufo-report-databases/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "title": "British Files",
+        "permalink": "/british-files/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_british_ufo_files_17629d_mod_ufo_file_purpose_c67c22",
+        "title": "Mo D File Purpose",
+        "permalink": "/mo-d-file-purpose/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_british_ufo_files_17629d_overseas_ufo_diploma_bc70f7",
+        "title": "Overseas Reports",
+        "permalink": "/overseas-reports/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_british_ufo_files_17629d_raf_ufo_searches_956678",
+        "title": "RAF Searches",
+        "permalink": "/raf-searches/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_british_ufo_files_17629d_rendlesham_record_tr_be077b",
+        "title": "Rendlesham Files",
+        "permalink": "/rendlesham-files/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_british_ufo_files_17629d_weather_ufo_explanat_ec53bb",
+        "title": "Weather Records",
+        "permalink": "/weather-records/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "title": "Canada Files",
+        "permalink": "/canada-files/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_canada_ufo_agency_tr_676eb4",
+        "title": "Agency Trail",
+        "permalink": "/agency-trail/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_falcon_lake_unresolv_7c8177",
+        "title": "Falcon Lake",
+        "permalink": "/falcon-lake/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_project_magnet_propu_ed49e6",
+        "title": "Project Magnet",
+        "permalink": "/project-magnet/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_second_storey_larger_306db3",
+        "title": "Second Storey",
+        "permalink": "/second-storey/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_shag_harbour_records_3effaf",
+        "title": "Shag Harbour",
+        "permalink": "/shag-harbour/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "title": "Database Comparison",
+        "permalink": "/database-comparison/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_choose_ufo_database_813b14",
+        "title": "Choose a Database",
+        "permalink": "/choose-a-database/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_duplicate_ufo_report_b7ead3",
+        "title": "Duplicates",
+        "permalink": "/duplicates-7830f1/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_ufo_archive_search_t_73088b",
+        "title": "Archive Totals",
+        "permalink": "/archive-totals/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_ufo_case_counting_un_602ca2",
+        "title": "Case Counts",
+        "permalink": "/case-counts/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_unexplained_rate_com_d3f69a",
+        "title": "Unexplained Rates",
+        "permalink": "/unexplained-rates/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "title": "Duplicates",
+        "permalink": "/duplicates/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_duplicate_reports_fa_46fced",
+        "title": "False Patterns",
+        "permalink": "/false-patterns/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_matching_duplicate_u_f9ff9e",
+        "title": "Matching Reports",
+        "permalink": "/matching-reports/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_one_event_many_recor_d84564",
+        "title": "Record Multiplication",
+        "permalink": "/record-multiplication/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_ufocat_rows_vs_event_a4ba5f",
+        "title": "UFOCAT Counts",
+        "permalink": "/ufocat-counts/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_witnesses_vs_event_c_4fd821",
+        "title": "Witness Counting",
+        "permalink": "/witness-counting/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "title": "GEIPAN",
+        "permalink": "/geipan/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_aircraft_reco_149fc4",
+        "title": "Aircraft Cases",
+        "permalink": "/aircraft-cases/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_case_reclassi_0a8a89",
+        "title": "Reclassification",
+        "permalink": "/reclassification/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_class_c_limit_97f2e3",
+        "title": "Class C",
+        "permalink": "/class-c/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_class_d_thres_4f8179",
+        "title": "Class D",
+        "permalink": "/class-d/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_statistics_me_2e21de",
+        "title": "Case Statistics",
+        "permalink": "/case-statistics/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "title": "Unidentified",
+        "permalink": "/unidentified/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_gofast_motion_parall_80b7dc",
+        "title": "Go Fast Parallax",
+        "permalink": "/go-fast-parallax/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_infrared_ufo_sensor_4eaa20",
+        "title": "Infrared Effects",
+        "permalink": "/infrared-effects/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_starlink_pilot_sight_009d01",
+        "title": "Starlink Pilots",
+        "permalink": "/starlink-pilots/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_ufo_unresolved_perce_b08405",
+        "title": "Unresolved Totals",
+        "permalink": "/unresolved-totals/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_ufo_video_missing_me_b7f6f6",
+        "title": "Missing Metadata",
+        "permalink": "/missing-metadata/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "title": "MUFON",
+        "permalink": "/mufon/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_case_file_qual_fa0ff7",
+        "title": "Case File Quality",
+        "permalink": "/case-file-quality/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_historic_recor_ebc7d2",
+        "title": "Historic Records",
+        "permalink": "/historic-records/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_investigator_c_6fc4df",
+        "title": "Investigator Checks",
+        "permalink": "/investigator-checks/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_member_databas_c76000",
+        "title": "Member Access",
+        "permalink": "/member-access/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_unexplained_la_a80dee",
+        "title": "Unexplained Labels",
+        "permalink": "/unexplained-labels/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "title": "NUFORC",
+        "permalink": "/nuforc/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_nuforc_report_limits_750bea_nuforc_review_verifi_74ea56",
+        "title": "Review Limits",
+        "permalink": "/review-limits/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_event_vs_submiss_9cae65",
+        "title": "Date Gaps",
+        "permalink": "/date-gaps/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_hotspots_sky_vis_26efa5",
+        "title": "Hotspot Bias",
+        "permalink": "/hotspot-bias/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_media_reporting_2b6892",
+        "title": "Attention Surges",
+        "permalink": "/attention-surges/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_reporting_self_s_6473cc",
+        "title": "Self Selection",
+        "permalink": "/self-selection/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "title": "Blue Book",
+        "permalink": "/blue-book/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_blue_book_701_cases_f37369",
+        "title": "The 701 Cases",
+        "permalink": "/the-701-cases/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_blue_book_investigat_173df9",
+        "title": "Investigation Checks",
+        "permalink": "/investigation-checks/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_blue_book_unidentifi_813264",
+        "title": "Unidentified Label",
+        "permalink": "/unidentified-label/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_cold_war_blue_book_r_143ae8",
+        "title": "Cold War Context",
+        "permalink": "/cold-war-context/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_special_report_14_de_2846d7",
+        "title": "Report 14",
+        "permalink": "/report-14/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b",
+        "title": "Reports vs Files",
+        "permalink": "/reports-vs-files/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_blue_book_file_layer_0693b7",
+        "title": "Blue Book Files",
+        "permalink": "/blue-book-files/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_independent_ufo_witn_60026e",
+        "title": "Independent Witnesses",
+        "permalink": "/independent-witnesses/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_ufo_distance_size_sp_dcf2fd",
+        "title": "Distance Errors",
+        "permalink": "/distance-errors/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_ufo_viewing_geometry_3112a8",
+        "title": "Viewing Geometry",
+        "permalink": "/viewing-geometry/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_unexplained_ufo_mean_3c36bb",
+        "title": "Unexplained Cases",
+        "permalink": "/unexplained-cases/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "title": "Search by Date",
+        "permalink": "/search-by-date/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_independent_vs_dupli_9f5360",
+        "title": "Duplicate Reports",
+        "permalink": "/duplicate-reports/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_airfield_archive_caa348",
+        "title": "Airfield Records",
+        "permalink": "/airfield-records/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_date_time_zone_s_c0a85a",
+        "title": "Time Shifts",
+        "permalink": "/time-shifts/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_newspaper_date_s_8218f8",
+        "title": "Newspaper Check",
+        "permalink": "/newspaper-check/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_search_radius_61e66a",
+        "title": "Search Radius",
+        "permalink": "/search-radius/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "title": "Report Maps",
+        "permalink": "/report-maps/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_airspace_hotspot_con_b008dc",
+        "title": "Busy Airspace",
+        "permalink": "/busy-airspace/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_database_map_differe_682c2b",
+        "title": "Database Maps",
+        "permalink": "/database-maps/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_false_hotspots_geoco_3769a3",
+        "title": "Geocoding Bias",
+        "permalink": "/geocoding-bias/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_rural_rate_small_num_d5a8f6",
+        "title": "Small Numbers",
+        "permalink": "/small-numbers/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_time_filters_event_c_7d15a4",
+        "title": "Time Filters",
+        "permalink": "/time-filters/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "title": "Reporting Bias",
+        "permalink": "/reporting-bias/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_confidential_ufo_rep_f05dc1",
+        "title": "Confidential Channels",
+        "permalink": "/confidential-channels/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_online_ufo_reporting_918f16",
+        "title": "Online Reporting",
+        "permalink": "/online-reporting/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_pilot_ufo_reporting_f9297e",
+        "title": "Pilot Silence",
+        "permalink": "/pilot-silence/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_ufo_memory_reconstru_bfe8d3",
+        "title": "Memory Changes",
+        "permalink": "/memory-changes/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_ufo_reports_per_capi_074a6e",
+        "title": "Per Capita Rates",
+        "permalink": "/per-capita-rates/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d",
+        "title": "UFOCAT",
+        "permalink": "/ufocat/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_civilian_vs_governme_d4f84c",
+        "title": "Archive Differences",
+        "permalink": "/archive-differences/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_database_resc_0aaf9a",
+        "title": "Database Rescue",
+        "permalink": "/database-rescue/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_duplicate_ent_6243a0",
+        "title": "Duplicate Entries",
+        "permalink": "/duplicate-entries/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_source_access_68fc8c",
+        "title": "Access Levels",
+        "permalink": "/access-levels/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_source_trails_b14a56",
+        "title": "Source Trails",
+        "permalink": "/source-trails/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "title": "US Archives",
+        "permalink": "/us-archives/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_us_ufo_archives_130466_jal_1628_faa_archive_ddbdd2",
+        "title": "JAL 1628 Files",
+        "permalink": "/jal-1628-files/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_us_ufo_archives_130466_nara_uap_bulk_downlo_87c286",
+        "title": "Bulk UAP Data",
+        "permalink": "/bulk-uap-data/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_us_ufo_archives_130466_record_group_615_acc_6fee98",
+        "title": "Record Group 615",
+        "permalink": "/record-group-615/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_us_ufo_archives_130466_search_beyond_blue_b_f770d7",
+        "title": "Search Beyond Blue",
+        "permalink": "/search-beyond-blue/"
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_us_ufo_archives_130466_uap_redacted_postpon_7410dc",
+        "title": "Redacted Records",
+        "permalink": "/redacted-records/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "title": "Unidentified",
+        "permalink": "/unidentified/",
+        "inline_inbound_count": 78
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "title": "Blue Book",
+        "permalink": "/blue-book/",
+        "inline_inbound_count": 35
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "title": "NUFORC",
+        "permalink": "/nuforc/",
+        "inline_inbound_count": 33
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "title": "GEIPAN",
+        "permalink": "/geipan/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "ufo_report_databases_8352a3",
+        "title": "UFO Report Databases",
+        "permalink": "/ufo-report-databases/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "title": "MUFON",
+        "permalink": "/mufon/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_independent_ufo_witn_60026e",
+        "title": "Independent Witnesses",
+        "permalink": "/independent-witnesses/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d",
+        "title": "UFOCAT",
+        "permalink": "/ufocat/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_ufo_viewing_geometry_3112a8",
+        "title": "Viewing Geometry",
+        "permalink": "/viewing-geometry/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_unexplained_ufo_mean_3c36bb",
+        "title": "Unexplained Cases",
+        "permalink": "/unexplained-cases/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_us_ufo_archives_130466_record_group_615_acc_6fee98",
+        "title": "Record Group 615",
+        "permalink": "/record-group-615/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_online_ufo_reporting_918f16",
+        "title": "Online Reporting",
+        "permalink": "/online-reporting/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_case_reclassi_0a8a89",
+        "title": "Reclassification",
+        "permalink": "/reclassification/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "title": "British Files",
+        "permalink": "/british-files/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_ufo_case_counting_un_602ca2",
+        "title": "Case Counts",
+        "permalink": "/case-counts/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_british_ufo_files_17629d_weather_ufo_explanat_ec53bb",
+        "title": "Weather Records",
+        "permalink": "/weather-records/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_class_c_limit_97f2e3",
+        "title": "Class C",
+        "permalink": "/class-c/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_class_d_thres_4f8179",
+        "title": "Class D",
+        "permalink": "/class-d/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_special_report_14_de_2846d7",
+        "title": "Report 14",
+        "permalink": "/report-14/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "title": "Reporting Bias",
+        "permalink": "/reporting-bias/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_project_magnet_propu_ed49e6",
+        "title": "Project Magnet",
+        "permalink": "/project-magnet/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_shag_harbour_records_3effaf",
+        "title": "Shag Harbour",
+        "permalink": "/shag-harbour/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "title": "Database Comparison",
+        "permalink": "/database-comparison/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_member_databas_c76000",
+        "title": "Member Access",
+        "permalink": "/member-access/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "title": "Report Maps",
+        "permalink": "/report-maps/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_falcon_lake_unresolv_7c8177",
+        "title": "Falcon Lake",
+        "permalink": "/falcon-lake/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_second_storey_larger_306db3",
+        "title": "Second Storey",
+        "permalink": "/second-storey/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_investigator_c_6fc4df",
+        "title": "Investigator Checks",
+        "permalink": "/investigator-checks/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_reporting_self_s_6473cc",
+        "title": "Self Selection",
+        "permalink": "/self-selection/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_blue_book_file_layer_0693b7",
+        "title": "Blue Book Files",
+        "permalink": "/blue-book-files/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_ufo_reports_per_capi_074a6e",
+        "title": "Per Capita Rates",
+        "permalink": "/per-capita-rates/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "title": "Canada Files",
+        "permalink": "/canada-files/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "title": "Duplicates",
+        "permalink": "/duplicates/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_duplicate_reports_fa_46fced",
+        "title": "False Patterns",
+        "permalink": "/false-patterns/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_matching_duplicate_u_f9ff9e",
+        "title": "Matching Reports",
+        "permalink": "/matching-reports/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_ufo_unresolved_perce_b08405",
+        "title": "Unresolved Totals",
+        "permalink": "/unresolved-totals/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_ufo_video_missing_me_b7f6f6",
+        "title": "Missing Metadata",
+        "permalink": "/missing-metadata/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b",
+        "title": "Reports vs Files",
+        "permalink": "/reports-vs-files/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "title": "Search by Date",
+        "permalink": "/search-by-date/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_date_time_zone_s_c0a85a",
+        "title": "Time Shifts",
+        "permalink": "/time-shifts/",
+        "inline_inbound_count": 2
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_airspace_hotspot_con_b008dc",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_database_map_differe_682c2b",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_false_hotspots_geoco_3769a3",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_rural_rate_small_num_d5a8f6",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_time_filters_event_c_7d15a4",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_us_ufo_archives_130466_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_us_ufo_archives_130466_jal_1628_faa_archive_ddbdd2",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_us_ufo_archives_130466_nara_uap_bulk_downlo_87c286",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_us_ufo_archives_130466_record_group_615_acc_6fee98",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_us_ufo_archives_130466_search_beyond_blue_b_f770d7",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_us_ufo_archives_130466_uap_redacted_postpon_7410dc",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_british_ufo_files_17629d_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_british_ufo_files_17629d_mod_ufo_file_purpose_c67c22",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_british_ufo_files_17629d_overseas_ufo_diploma_bc70f7",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_british_ufo_files_17629d_raf_ufo_searches_956678",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_british_ufo_files_17629d_rendlesham_record_tr_be077b",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_british_ufo_files_17629d_weather_ufo_explanat_ec53bb",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_case_file_qual_fa0ff7",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_historic_recor_ebc7d2",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_investigator_c_6fc4df",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_member_databas_c76000",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_unexplained_la_a80dee",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_independent_vs_dupli_9f5360",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_airfield_archive_caa348",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_date_time_zone_s_c0a85a",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_newspaper_date_s_8218f8",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_search_radius_61e66a",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_confidential_ufo_rep_f05dc1",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_online_ufo_reporting_918f16",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_pilot_ufo_reporting_f9297e",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_ufo_memory_reconstru_bfe8d3",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_ufo_reports_per_capi_074a6e",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_canada_ufo_agency_tr_676eb4",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_falcon_lake_unresolv_7c8177",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_project_magnet_propu_ed49e6",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_second_storey_larger_306db3",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_shag_harbour_records_3effaf",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_choose_ufo_database_813b14",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_duplicate_ufo_report_b7ead3",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_ufo_archive_search_t_73088b",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_ufo_case_counting_un_602ca2",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_unexplained_rate_com_d3f69a",
+        "type": "child"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "to": "ufo_report_databases_8352a3",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "to": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "to": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "to": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "sibling"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_blue_book_file_layer_0693b7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_us_ufo_archives_130466_record_group_615_acc_6fee98",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_duplicate_reports_fa_46fced",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_us_ufo_archives_130466_record_group_615_acc_6fee98",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_us_ufo_archives_130466_uap_redacted_postpon_7410dc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_independent_ufo_witn_60026e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_investigator_c_6fc4df",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_member_databas_c76000",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_independent_ufo_witn_60026e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_us_ufo_archives_130466_record_group_615_acc_6fee98",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_search_radius_61e66a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_online_ufo_reporting_918f16",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_ufo_reports_per_capi_074a6e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_reporting_self_s_6473cc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_falcon_lake_unresolv_7c8177",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_project_magnet_propu_ed49e6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_us_ufo_archives_130466_record_group_615_acc_6fee98",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_second_storey_larger_306db3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_shag_harbour_records_3effaf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_source_trails_b14a56",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_unexplained_ufo_mean_3c36bb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "to": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_independent_ufo_witn_60026e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "to": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_class_c_limit_97f2e3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_class_d_thres_4f8179",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "to": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_ufo_memory_reconstru_bfe8d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_case_reclassi_0a8a89",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "to": "ufo_report_databases_8352a3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_ufo_viewing_geometry_3112a8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "to": "ufo_report_databases_8352a3_british_ufo_files_17629d_weather_ufo_explanat_ec53bb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_independent_ufo_witn_60026e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_special_report_14_de_2846d7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_ufo_unresolved_perce_b08405",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_ufo_viewing_geometry_3112a8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_independent_ufo_witn_60026e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_reporting_self_s_6473cc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_ufo_viewing_geometry_3112a8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_independent_ufo_witn_60026e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "to": "ufo_report_databases_8352a3_us_ufo_archives_130466_record_group_615_acc_6fee98",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_special_report_14_de_2846d7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_independent_ufo_witn_60026e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b",
+        "to": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_online_ufo_reporting_918f16",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b",
+        "to": "ufo_report_databases_8352a3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b",
+        "to": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_ufo_viewing_geometry_3112a8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d",
+        "to": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_duplicate_ent_6243a0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d_raf_ufo_searches_956678",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_british_ufo_files_17629d_raf_ufo_searches_956678",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_search_radius_61e66a",
+        "to": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_matching_duplicate_u_f9ff9e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_search_radius_61e66a",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_search_radius_61e66a",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_search_radius_61e66a",
+        "to": "ufo_report_databases_8352a3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_search_radius_61e66a",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_airspace_hotspot_con_b008dc",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_airspace_hotspot_con_b008dc",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_airspace_hotspot_con_b008dc",
+        "to": "ufo_report_databases_8352a3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_airspace_hotspot_con_b008dc",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_database_map_differe_682c2b",
+        "to": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_database_map_differe_682c2b",
+        "to": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_database_map_differe_682c2b",
+        "to": "ufo_report_databases_8352a3_mufon_case_access_105270",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_database_map_differe_682c2b",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_database_map_differe_682c2b",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_false_hotspots_geoco_3769a3",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_false_hotspots_geoco_3769a3",
+        "to": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_rural_rate_small_num_d5a8f6",
+        "to": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_ufo_reports_per_capi_074a6e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_rural_rate_small_num_d5a8f6",
+        "to": "ufo_report_databases_8352a3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_time_filters_event_c_7d15a4",
+        "to": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_time_filters_event_c_7d15a4",
+        "to": "ufo_report_databases_8352a3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_time_filters_event_c_7d15a4",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466_jal_1628_faa_archive_ddbdd2",
+        "to": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_report_databases_8352a3_us_ufo_archives_130466_jal_1628_faa_archive_ddbdd2",
+        "to": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}

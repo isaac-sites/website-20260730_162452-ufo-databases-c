@@ -1,0 +1,1254 @@
+{
+  "generated_at": "2026-07-30T16:22:23",
+  "passed": true,
+  "baseline": {
+    "article_pages": 98,
+    "amazon_specific_pages": 72,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "ufo_report_databases_8352a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_british_ufo_files_17629d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_british_ufo_files_17629d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_british_ufo_files_17629d_mod_ufo_file_purpose_c67c22": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_british_ufo_files_17629d_overseas_ufo_diploma_bc70f7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_british_ufo_files_17629d_raf_ufo_searches_956678": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_british_ufo_files_17629d_rendlesham_record_tr_be077b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_british_ufo_files_17629d_weather_ufo_explanat_ec53bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_canada_ufo_agency_tr_676eb4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_falcon_lake_unresolv_7c8177": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_project_magnet_propu_ed49e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_second_storey_larger_306db3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_shag_harbour_records_3effaf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_compare_ufo_database_8bf005": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_choose_ufo_database_813b14": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_duplicate_ufo_report_b7ead3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_ufo_archive_search_t_73088b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_ufo_case_counting_un_602ca2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_unexplained_rate_com_d3f69a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_duplicate_ufo_report_0f8f90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_duplicate_reports_fa_46fced": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_matching_duplicate_u_f9ff9e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_one_event_many_recor_d84564": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_ufocat_rows_vs_event_a4ba5f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_witnesses_vs_event_c_4fd821": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_geipan_classificatio_330a88": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_aircraft_reco_149fc4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_case_reclassi_0a8a89": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_class_c_limit_97f2e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_class_d_thres_4f8179": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_statistics_me_2e21de": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_geipan_classificatio_330a88_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_meaning_of_unidentif_199dca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_meaning_of_unidentif_ac4f1b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_mufon_case_access_105270": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_mufon_case_access_105270_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_case_file_qual_fa0ff7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_historic_recor_ebc7d2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_investigator_c_6fc4df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_member_databas_c76000": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_unexplained_la_a80dee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_nuforc_report_limits_750bea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_nuforc_report_limits_750bea_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_nuforc_report_limits_750bea_nuforc_review_verifi_74ea56": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_event_vs_submiss_9cae65": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_hotspots_sky_vis_26efa5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_media_reporting_2b6892": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_reporting_self_s_6473cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_project_blue_book_re_ad1d41": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_blue_book_701_cases_f37369": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_blue_book_investigat_173df9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_blue_book_unidentifi_813264": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_cold_war_blue_book_r_143ae8": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_special_report_14_de_2846d7": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_reports_vs_case_file_770b4b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_reports_vs_case_file_eac40c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_research_ufo_date_06f9e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_research_ufo_date_06f9e5_independent_vs_dupli_9f5360": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_research_ufo_date_06f9e5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_airfield_archive_caa348": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_date_time_zone_s_c0a85a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_newspaper_date_s_8218f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_search_radius_61e66a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_research_ufo_date_06_38105d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufocat_research_cata_faf34d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_confidential_ufo_rep_f05dc1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_online_ufo_reporting_918f16": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_pilot_ufo_reporting_f9297e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_ufo_memory_reconstru_bfe8d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_ufo_reports_per_capi_074a6e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_airspace_hotspot_con_b008dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_database_map_differe_682c2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_false_hotspots_geoco_3769a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_rural_rate_small_num_d5a8f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_time_filters_event_c_7d15a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_report_maps_bbf5_358515": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_us_ufo_archives_130466": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_us_ufo_archives_130466_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_us_ufo_archives_130466_jal_1628_faa_archive_ddbdd2": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_us_ufo_archives_130466_nara_uap_bulk_downlo_87c286": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_us_ufo_archives_130466_record_group_615_acc_6fee98": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_us_ufo_archives_130466_search_beyond_blue_b_f770d7": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_us_ufo_archives_130466_uap_redacted_postpon_7410dc": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 107,
+    "amazon_specific_pages": 91,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "ufo_report_databases_8352a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_british_ufo_files_17629d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_british_ufo_files_17629d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_british_ufo_files_17629d_mod_ufo_file_purpose_c67c22": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_british_ufo_files_17629d_overseas_ufo_diploma_bc70f7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_british_ufo_files_17629d_raf_ufo_searches_956678": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_british_ufo_files_17629d_rendlesham_record_tr_be077b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_british_ufo_files_17629d_weather_ufo_explanat_ec53bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_canada_ufo_agency_tr_676eb4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_falcon_lake_unresolv_7c8177": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_project_magnet_propu_ed49e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_second_storey_larger_306db3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_shag_harbour_records_3effaf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_choose_ufo_database_813b14": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_duplicate_ufo_report_b7ead3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_ufo_archive_search_t_73088b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_ufo_case_counting_un_602ca2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_unexplained_rate_com_d3f69a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_duplicate_reports_fa_46fced": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_matching_duplicate_u_f9ff9e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_one_event_many_recor_d84564": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_ufocat_rows_vs_event_a4ba5f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_witnesses_vs_event_c_4fd821": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_geipan_classificatio_330a88": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_aircraft_reco_149fc4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_case_reclassi_0a8a89": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_class_c_limit_97f2e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_class_d_thres_4f8179": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_statistics_me_2e21de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_geipan_classificatio_330a88_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_meaning_of_unidentif_199dca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_gofast_motion_parall_80b7dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_infrared_ufo_sensor_4eaa20": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_starlink_pilot_sight_009d01": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_ufo_unresolved_perce_b08405": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_ufo_video_missing_me_b7f6f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_mufon_case_access_105270": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_mufon_case_access_105270_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_case_file_qual_fa0ff7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_historic_recor_ebc7d2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_investigator_c_6fc4df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_member_databas_c76000": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_unexplained_la_a80dee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_nuforc_report_limits_750bea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_nuforc_report_limits_750bea_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_nuforc_report_limits_750bea_nuforc_review_verifi_74ea56": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_event_vs_submiss_9cae65": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_hotspots_sky_vis_26efa5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_media_reporting_2b6892": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_reporting_self_s_6473cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_project_blue_book_re_ad1d41": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_blue_book_701_cases_f37369": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_blue_book_investigat_173df9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_blue_book_unidentifi_813264": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_cold_war_blue_book_r_143ae8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_special_report_14_de_2846d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_reports_vs_case_file_770b4b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_blue_book_file_layer_0693b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_independent_ufo_witn_60026e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_ufo_distance_size_sp_dcf2fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_ufo_viewing_geometry_3112a8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_unexplained_ufo_mean_3c36bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_research_ufo_date_06f9e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_research_ufo_date_06f9e5_independent_vs_dupli_9f5360": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_research_ufo_date_06f9e5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_airfield_archive_caa348": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_date_time_zone_s_c0a85a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_newspaper_date_s_8218f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_search_radius_61e66a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufocat_research_cata_faf34d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_civilian_vs_governme_d4f84c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_database_resc_0aaf9a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_duplicate_ent_6243a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_source_access_68fc8c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_source_trails_b14a56": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_confidential_ufo_rep_f05dc1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_online_ufo_reporting_918f16": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_pilot_ufo_reporting_f9297e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_ufo_memory_reconstru_bfe8d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_ufo_reports_per_capi_074a6e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_airspace_hotspot_con_b008dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_database_map_differe_682c2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_false_hotspots_geoco_3769a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_rural_rate_small_num_d5a8f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_time_filters_event_c_7d15a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_us_ufo_archives_130466": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_us_ufo_archives_130466_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_us_ufo_archives_130466_jal_1628_faa_archive_ddbdd2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_us_ufo_archives_130466_nara_uap_bulk_downlo_87c286": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_us_ufo_archives_130466_record_group_615_acc_6fee98": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_us_ufo_archives_130466_search_beyond_blue_b_f770d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_report_databases_8352a3_us_ufo_archives_130466_uap_redacted_postpon_7410dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 92,
+  "regressions": []
+}

@@ -1,0 +1,2195 @@
+{
+  "generated_at_utc": "2026-07-30T15:22:20.875058Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 91,
+    "pages_review_recommended": 0,
+    "warning_reason_counts": {}
+  },
+  "pages": [
+    {
+      "basename": "ufo_report_databases_8352a3",
+      "title": "UFO Report Databases",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "process_steps",
+        "cards_grid"
+      ],
+      "roles": [
+        "summary",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "Types of UFO Data Repositories",
+        "GEIPAN Published Case Statistics",
+        "NUFORC vs. MUFON Data base Features"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_british_ufo_files_17629d",
+      "title": "How to Find UFO Files in Britain's Archives",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "National Archives Discovery Workflow",
+        "British Departmental Record Functions",
+        "UFO Search Terminology Variations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_british_ufo_files_17629d_mod_ufo_file_purpose_c67c22",
+      "title": "What Ministry of Defence UFO Files Actually Prove",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Mo D UFO Record Keeping",
+        "Administrative vs Intelligence File Types",
+        "Hierarchy of Mo D Record Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_british_ufo_files_17629d_overseas_ufo_diploma_bc70f7",
+      "title": "Why British Embassies Filed UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "UFO Information Flow to Whitehall",
+        "Diplomatic Reporting vs. Investigation",
+        "Types of Overseas UFO Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_british_ufo_files_17629d_raf_ufo_searches_956678",
+      "title": "How to Find Early RAF UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Archival Search Workflow for RAF Sightings",
+        "Modern vs. Historical Search Terms",
+        "Common Aviation Record False Positives"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_british_ufo_files_17629d_rendlesham_record_tr_be077b",
+      "title": "How Government Records Reframed Rendlesham",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Record Migration",
+        "Documentary Layers of Rendlesham",
+        "Discovery Catalogue Contextual Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_british_ufo_files_17629d_weather_ufo_explanat_ec53bb",
+      "title": "Can Weather Records Explain a UFO Sighting?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Met Office Archive Research Workflow",
+        "Weather Balloon vs. UFO Motion",
+        "Met Office Archive Data Types"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9",
+      "title": "What Canada's UFO Archives Preserve",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of Canadian UFO Records",
+        "Project Magnet vs. Project Second Storey",
+        "Canadian Agency Record Sources"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_canada_ufo_agency_tr_676eb4",
+      "title": "How a Canadian UFO Report Became a File",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Canadian UFO Administrative Chain of Custody",
+        "Defence vs Scientific Review Priorities",
+        "NRC Scientific Classification Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_falcon_lake_unresolv_7c8177",
+      "title": "Why Falcon Lake Still Defies a Clear Verdict",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Falcon Lake Incident Investigation Time line",
+        "Falcon Lake Evidence Discrepancies",
+        "Falcon Lake Archive Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_project_magnet_propu_ed49e6",
+      "title": "What Was Project Magnet Really Trying to Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Magnet Research Time line",
+        "Project Magnet Scientific Methodology",
+        "Shirley's Bay Station Equipment"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_second_storey_larger_306db3",
+      "title": "Why Canada Declined a Bigger UFO Program",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Project Second Storey Operational Workflow",
+        "Project Second Storey vs Project Magnet",
+        "Classification Goals for UFO Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_shag_harbour_records_3effaf",
+      "title": "What Do the Shag Harbour Files Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Shag Harbour 1967 Emergency Response",
+        "Official Records vs. Later Narratives",
+        "Key Components of Shag Harbour Archives"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9",
+      "title": "Which UFO Database Best Fits Your Question?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "versus",
+        "grid_stats"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "UFO Data base Collection Units",
+        "NUFORC vs. GEIPAN Methodology",
+        "Project Blue Book Statistics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_choose_ufo_database_813b14",
+      "title": "Which UFO Database Fits Your Question?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Building a Defensible Cross Data base Sample",
+        "UFO Data base Types and Research Utility",
+        "Common UFO Research Selection Mistakes"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_duplicate_ufo_report_b7ead3",
+      "title": "When One UFO Sighting Becomes Ten Records",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "UFOCAT Data base Record Lifecycle",
+        "Report Counts vs. Unique Events",
+        "Mechanisms of Duplicate Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_ufo_archive_search_t_73088b",
+      "title": "Why Archive Hits Do Not Equal UFO Sightings",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "tug_of_war",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "taxonomy",
+        "other",
+        "chronology"
+      ],
+      "titles": [
+        "UK National Archives UFO Record Types",
+        "Archive Search vs. Sighting Totals",
+        "Evolution of Archival Cataloguing"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_ufo_case_counting_un_602ca2",
+      "title": "What Does One UFO Case Actually Count?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "comparison_columns",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "UFO Data base Record Types",
+        "Reporting vs. Investigative Data bases",
+        "Evaluating UFO Data base Totals"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_unexplained_rate_com_d3f69a",
+      "title": "Why UFO Unexplained Rates Mislead Comparisons",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Case Classification Workflow",
+        "GEIPAN vs Project Blue Book Standards",
+        "Factors Influencing Unexplained Percentages"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2",
+      "title": "When One UFO Sighting Becomes Many Records",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "UFOCAT Source Chain Multiplication",
+        "Report vs. Event Analysis Metrics",
+        "UFO Data base Duplication Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_duplicate_reports_fa_46fced",
+      "title": "Can Duplicate UFO Reports Create Fake Waves?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Data Distortion in UFO Catalogues",
+        "Record vs. Event Analysis Models",
+        "French GEIPAN Data Distinctions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_matching_duplicate_u_f9ff9e",
+      "title": "How Can Two UFO Reports Be Matched?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Automated UFO Record Matching Workflow",
+        "Exact vs Fuzzy Matching Limitations",
+        "Indicators for UFO Event Matching"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_one_event_many_recor_d84564",
+      "title": "How One UFO Sighting Turns Into Many Records",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Document Lifecycle in UFOCAT",
+        "Reporting Units vs. Underlying Events",
+        "Factors Complicating Deduplication"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_ufocat_rows_vs_event_a4ba5f",
+      "title": "Why UFOCAT Has More Records Than Events",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "UFOCAT Documentary Record Evolution",
+        "UFOCAT Records vs. Primary Events",
+        "UFOCAT Source Record Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_witnesses_vs_event_c_4fd821",
+      "title": "Do Five UFO Witnesses Mean Five Sightings?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "tug_of_war",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "summary",
+        "other",
+        "chronology"
+      ],
+      "titles": [
+        "NUFORC Three Level Data Model",
+        "Distinguishing Witness and Event Counts",
+        "NUFORC Data base Governance Rules"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_geipan_classificatio_330a88",
+      "title": "Why GEIPAN's UFO Classifications Matter",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "grid_stats",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Investigation Workflow Steps",
+        "GEIPAN Statistics as of June 2026",
+        "GEIPAN Classification Logic Framework"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_aircraft_reco_149fc4",
+      "title": "When an Aircraft Looks Nothing Like an Aircraft",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Aircraft Identification Workflow",
+        "Conches en Ouche Sighting Analysis",
+        "GEIPAN Environmental Reconstruction Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_case_reclassi_0a8a89",
+      "title": "Why GEIPAN's Unexplained Total Keeps Changing",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "GEIPAN Class D Reclassification Workflow",
+        "GEIPAN Classification Evolution Since 2008",
+        "GEIPAN Statistical Trends and Findings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_class_c_limit_97f2e3",
+      "title": "Why Class C Does Not Mean Unexplained",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "list_vertical",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "GEIPAN Class C vs. Class D Distinction",
+        "Evidence Deficiencies in Class C Cases",
+        "GEIPAN Methodology for Case Reassessment"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_class_d_thres_4f8179",
+      "title": "What Makes a GEIPAN Case Truly Class D",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "GEIPAN Class D Investigation Workflow",
+        "D1 vs D2 GEIPAN Subcategories",
+        "Consistency Metrics for GEIPAN Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_geipan_classificatio_330a88_geipan_statistics_me_2e21de",
+      "title": "What GEIPAN's UFO Percentages Really Tell US",
+      "infographic_count": 3,
+      "templates": [
+        "grid_stats",
+        "fact_box_sidebar",
+        "process_steps"
+      ],
+      "roles": [
+        "other",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "GEIPAN Archive Classification Percentages",
+        "Misinterpretations of GEIPAN Statistics",
+        "GEIPAN Investigation Criteria and Review"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca",
+      "title": "What Does Unidentified Actually Mean?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "comparison_columns",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "AARO UAP Classification Outcomes",
+        "Evidence Quality vs. Case Resistance",
+        "GEIPAN Classification Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_gofast_motion_parall_80b7dc",
+      "title": "Did Go Fast Really Move as Fast as It Looked?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Go Fast Video Analysis Workflow",
+        "Apparent vs. Physical Motion",
+        "Go Fast Investigation Key Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_infrared_ufo_sensor_4eaa20",
+      "title": "When Infrared Cameras Make UFOs Look Impossible",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Infrared Sensor Data Analysis Workflow",
+        "Interpreting Infrared Motion Anomalies",
+        "Factors Influencing Infrared Brightness"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_starlink_pilot_sight_009d01",
+      "title": "How Starlink Fooled Five Experienced Airline Pilots",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Reconstructing the August 2022 Pacific Sightings",
+        "Pilot Observations vs. Orbital Reality",
+        "Factors Influencing Pilot Misidentification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_ufo_unresolved_perce_b08405",
+      "title": "What UFO Unresolved Percentages Actually Tell You",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "structure_taxonomy",
+        "myth_facts"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "GEIPAN Classification Methodology Differences",
+        "AARO Unresolved Case Variables",
+        "Factors Influencing Catalogue Percentages"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_ufo_video_missing_me_b7f6f6",
+      "title": "Why UFO Videos Stay Unidentified Without Metadata",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Video Forensic Degradation Pipeline",
+        "Original vs. Viral Video Evidence",
+        "Critical Metadata for UAP Analysis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_mufon_case_access_105270",
+      "title": "How Much Evidence Does a MUFON Case Hold?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "MUFON Field Investigation Workflow",
+        "MUFON Data base Access Layers",
+        "Variables Affecting Case Quality"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_case_file_qual_fa0ff7",
+      "title": "What Makes a MUFON Case File Strong?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "MUFON Case Investigation Workflow",
+        "High Value vs. Weak Case Files",
+        "Conventional Explanations to Rule Out"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_historic_recor_ebc7d2",
+      "title": "What MUFON's Digitized Records Cannot Bring Back",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "MUFON Archive Digitization Time line",
+        "Digital Preservation vs. Data Loss",
+        "MUFON Archive Data Characteristics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_investigator_c_6fc4df",
+      "title": "What MUFON Checks Before a Case Stays Unexplained",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "MUFON Scientific Method Investigation Steps",
+        "Conventional Explanations vs. Unresolved Status",
+        "MUFON Photographic Artifact Checklist"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_member_databas_c76000",
+      "title": "How Much of MUFON's Database Does Membership Unlock?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "MUFON Data base Access Layers",
+        "MUFON Member vs Investigator Privileges",
+        "MUFON Data base Media Types"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_mufon_case_access_105270_mufon_unexplained_la_a80dee",
+      "title": "What MUFON's Unexplained Label Really Tells You",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "MUFON Scientific Method Workflow",
+        "Unexplained Label vs. Object Identity",
+        "Factors Limiting Confident Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_nuforc_report_limits_750bea",
+      "title": "What Can NUFORC Reports Really Reveal?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "quadrant",
+        "process_pipeline"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "NUFORC Data base Data Layers",
+        "Reporting vs. Actual Activity",
+        "NUFORC Data Verification Workflow"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_nuforc_report_limits_750bea_nuforc_review_verifi_74ea56",
+      "title": "Does a Detailed UFO Report Count as Verified?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "NUFORC Editorial Review Workflow",
+        "Editorial Labels vs. Scientific Proof",
+        "Independent Verification Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_event_vs_submiss_9cae65",
+      "title": "When Did the UFO Sighting Really Enter the Record?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "NUFORC Data base Processing Workflow",
+        "Event Date vs. Posting Date Metrics",
+        "Best Practices for NUFORC Data Analysis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_hotspots_sky_vis_26efa5",
+      "title": "Do UFO Hotspots Show Objects or Better Viewing?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_roots",
+        "venn",
+        "logic_equation"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Factors Shaping NUFORC Sighting Hotspots",
+        "Interpreting NUFORC Map Clusters",
+        "The Hotspot Visibility Formula"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_media_reporting_2b6892",
+      "title": "Can UFO News Create Its Own Reporting Wave?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "NUFORC Reporting Feedback Mechanism",
+        "NUFORC Data: Surface vs. Underlying Reality",
+        "Social Drivers of Reporting Behavior"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_nuforc_report_limits_750bea_ufo_reporting_self_s_6473cc",
+      "title": "Who Reports UFO Sightings and Who Stays Silent?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "NUFORC Voluntary Reporting Pathway",
+        "NUFORC Data vs. Population Reality",
+        "NUFORC Analytical Capabilities"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41",
+      "title": "What Did Project Blue Book Leave Unexplained?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Air Force Blue Book Investigation Workflow",
+        "Interpretations of Unidentified Case Rulings",
+        "Blue Book Official Outcome Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_blue_book_701_cases_f37369",
+      "title": "What Is Actually Inside Blue Book's 701 Unknowns?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Blue Book Classification System",
+        "Interpretations of the 701 Unknowns",
+        "Project Blue Book Data Scope"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_blue_book_investigat_173df9",
+      "title": "How Blue Book Tried to Explain a Sighting",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Blue Book Investigation Workflow",
+        "Conventional Explanations Checked by Investigators",
+        "Data Points for Case Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_blue_book_unidentifi_813264",
+      "title": "What Did Blue Book Really Mean by Unidentified?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "versus",
+        "timeline_snake"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Project Blue Book Classification System",
+        "Unidentified vs Insufficient Data Labels",
+        "Project Blue Book Statistical Scope"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_cold_war_blue_book_r_143ae8",
+      "title": "How the Cold War Shaped Blue Book's Case Files",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Blue Book Investigation Workflow",
+        "Cold War Defense Priorities",
+        "Interpretive Challenges of Blue Book"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_special_report_14_de_2846d7",
+      "title": "Did Blue Book's Biggest Study Explain the Unknowns?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Battelle Memorial Institute Analysis Workflow",
+        "Interpretations of Special Report 14",
+        "Report Classification Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b",
+      "title": "Is a UFO Report the Same as Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GEIPAN Investigation Workflow Steps",
+        "Witness Narrative vs. Investigation File",
+        "UAP Evidence Hierarchy of Reliability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_blue_book_file_layer_0693b7",
+      "title": "What Blue Book Files Reveal Beyond the Sighting",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Project Blue Book Investigation Workflow",
+        "Case Files vs Administrative Records",
+        "Components of a Blue Book File"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_independent_ufo_witn_60026e",
+      "title": "When Do Multiple UFO Witnesses Really Corroborate?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Testing Witness Independence Workflow",
+        "Independent vs. Shared Testimony",
+        "UAP Evidence Strength Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_ufo_distance_size_sp_dcf2fd",
+      "title": "Why UFO Size and Speed Estimates Go Wrong",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "comparison_columns",
+        "timeline_snake"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Apparent vs. Physical Dimensions",
+        "Visual Reference Failures in UAP Reports",
+        "UAP Investigation Data Verification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_ufo_viewing_geometry_3112a8",
+      "title": "How Investigators Rebuild a UFO Sighting",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "NASA UAP Viewing Geometry Reconstruction",
+        "Common Misidentifications vs. Geometry",
+        "Data Layers for UAP Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_unexplained_ufo_mean_3c36bb",
+      "title": "What Does an Unexplained UFO Case Actually Mean?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "myth_facts",
+        "process_pipeline"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "GEIPAN Classification of Unexplained Cases",
+        "NASA UAP Data Quality Comparison",
+        "Project Blue Book Investigation Workflow"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_research_ufo_date_06f9e5",
+      "title": "How to Trace UFO Reports From One Night",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "UFO Sighting Research Workflow",
+        "Distinguishing Records vs Corroboration",
+        "Conventional Sky Phenomena Sources"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_independent_vs_dupli_9f5360",
+      "title": "Are Five UFO Reports Really Five Witnesses?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Path of a Single Witness Account",
+        "Corroboration vs. Narrative Similarity",
+        "Sources of Data base Multiplication"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_airfield_archive_caa348",
+      "title": "Was the UFO File Logged Under a Nearby Base?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "UFO Report Administrative Lifecycle",
+        "Geographic vs Institutional Search Logic",
+        "Aviation Facilities for Archive Mapping"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_date_time_zone_s_c0a85a",
+      "title": "Did the UFO Sighting Happen on the Wrong Date?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Converting Witness Time to UTC",
+        "Local vs UTC Data base Indexing",
+        "Sources of Midnight Date Confusion"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_newspaper_date_s_8218f8",
+      "title": "What Did Local Newspapers Report That Night?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Newspaper Search Methodology for UFO Reports",
+        "Independent vs. Syndicated Newspaper Coverage",
+        "Contextual Factors in Local News Archives"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_ufo_search_radius_61e66a",
+      "title": "How Far From the Sighting Should You Search?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Staged Geographic Search Strategy",
+        "Sighting Radius by Phenomenon Type",
+        "Alternative Geographic Search Terms"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3",
+      "title": "Do UFO Hotspot Maps Show Real Patterns?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Data Processing for UFO Hotspots",
+        "NUFORC Map Interpretation Factors",
+        "Variables for Spatial Modeling"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_airspace_hotspot_con_b008dc",
+      "title": "Do Military Zones Really Attract UFO Reports?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Aviation Activity to UAP Report Flow",
+        "Interpretation of Airport Hotspots",
+        "Routine Sources of UAP Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_database_map_differe_682c2b",
+      "title": "Why UFO Databases Map Different Worlds",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "process_pipeline",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "Public vs. Official Reporting Systems",
+        "GEIPAN Case Handling Workflow",
+        "Factors Shaping UFO Map Geography"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_false_hotspots_geoco_3769a3",
+      "title": "When Map Pins Manufacture a UFO Hotspot",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Geocoding Process for UFO Reports",
+        "Genuine vs. Artificial Hotspots",
+        "Methods to Correct Geocoding Bias"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_rural_rate_small_num_d5a8f6",
+      "title": "Can a Few Reports Make a Hotspot?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "UFO Data Analysis Workflow",
+        "Rural Hotspot Stability Comparison",
+        "Factors Inflating Rural Rates"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_time_filters_event_c_7d15a4",
+      "title": "Is That Hotspot Just One Night?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "NUFORC Temporal Filtering Workflow",
+        "Cumulative vs. Temporal Hotspots",
+        "Common Sources of Shared Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6",
+      "title": "Why More UFO Reports Do Not Mean More UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Filters in UFO Data base Entry",
+        "Factors Influencing Report Totals",
+        "Data Categories in UFO Data bases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_confidential_ufo_rep_f05dc1",
+      "title": "Do Safer Reporting Channels Create More UFO Cases?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "process_steps",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "Visible vs Hidden UAP Data",
+        "NARCAP and AARO Reporting Pathways",
+        "Factors Increasing Data base Totals"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_online_ufo_reporting_918f16",
+      "title": "How the Internet Changed Who Reports UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "structure_petal"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Transition from Paper to Web Reporting",
+        "Pre Internet vs. Online Reporting Dynamics",
+        "Factors Influencing Modern UFO Data bases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_pilot_ufo_reporting_f9297e",
+      "title": "Why Pilots Sometimes Keep UFO Sightings Quiet",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Aviation Reporting Pathway Evolution",
+        "Interpreting Pilot Reporting Gaps",
+        "Factors Influencing Pilot Silence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_ufo_memory_reconstru_bfe8d3",
+      "title": "How UFO Memories Change Before They Are Reported",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "cards_grid",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Memory Reconstruction of UFO Sightings",
+        "Delayed Report Data Capabilities",
+        "Sources of Memory Distortion"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_ufo_reports_per_capi_074a6e",
+      "title": "Why Per Capita UFO Maps Can Still Mislead",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "venn",
+        "comparison_columns"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Factors Influencing NUFORC Reporting Density",
+        "Raw Totals vs Population Adjusted Maps",
+        "Interpretation of High Per Capita Rates"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d",
+      "title": "How UFOCAT Connects Decades of Case Research",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "UFOCAT Data base Evolution History",
+        "UFOCAT Source Quality Comparison",
+        "UFOCAT Record Identification Fields"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_civilian_vs_governme_d4f84c",
+      "title": "UFOCAT or Government Archive: What Does Each Preserve?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "tree_map",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "process"
+      ],
+      "titles": [
+        "UFOCAT vs. Government Archives",
+        "Civilian UFO Collection Types",
+        "Researching Project Blue Book Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_database_resc_0aaf9a",
+      "title": "How UFOCAT Survived Lost Tapes and Dead Software",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "UFOCAT Data base Preservation Time line",
+        "Mainframe vs. Desktop Data base Systems",
+        "UFOCAT Preservation Safety Net Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_duplicate_ent_6243a0",
+      "title": "Why One UFO Sighting Can Have Many Records",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "UFOCAT Documentary Chain Progression",
+        "UFOCAT X2 Source Distance Levels",
+        "UFOCAT Data Integrity Challenges"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_source_access_68fc8c",
+      "title": "Which UFOCAT Sources Can Researchers Actually Check?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "UFOCAT Source Accessibility Layers",
+        "Verification Limits in UFOCAT",
+        "UFOCAT Confidentiality Availability Levels"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_source_trails_b14a56",
+      "title": "Can UFOCAT Lead Back to the Original Report?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "UFOCAT Source Trail Reconstruction",
+        "Direct vs Indirect Source Fields",
+        "UFOCAT Source Distinction Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_us_ufo_archives_130466",
+      "title": "Where America's Government UFO Records Are Kept",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Navigating NARA UAP Records",
+        "Agency Record Distribution Logic",
+        "Record Group 615 Structure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_us_ufo_archives_130466_jal_1628_faa_archive_ddbdd2",
+      "title": "What FAA Files Add to the JAL 1628 Case",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "FAA Documentation of Flight 1628",
+        "FAA Files vs Project Blue Book",
+        "Components of the Flight 1628 Archive"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_us_ufo_archives_130466_nara_uap_bulk_downlo_87c286",
+      "title": "What You Can Actually Do With NARA's UAP Downloads",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "UAP Archive Data Preparation Workflow",
+        "Archival Records vs Research Data sets",
+        "NARA UAP Record Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_us_ufo_archives_130466_record_group_615_acc_6fee98",
+      "title": "Why UFO Records Now Live in Two Archives",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Researcher Strategy for UAP Records",
+        "Dual Archive Model Trade offs",
+        "Components of Record Group 615"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_us_ufo_archives_130466_search_beyond_blue_b_f770d7",
+      "title": "Where UFO Records Hide Outside Blue Book",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "National Archives UAP Research Workflow",
+        "Agency Record Purposes and Content",
+        "Search Terms for Overlooked Material"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_report_databases_8352a3_us_ufo_archives_130466_uap_redacted_postpon_7410dc",
+      "title": "Why Listed UAP Files May Still Be Hidden",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "UAP Record Disclosure Workflow",
+        "Catalogue Presence vs. Accessibility",
+        "Statutory Grounds for Postponement"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}
