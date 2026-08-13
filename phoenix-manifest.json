@@ -1,0 +1,2997 @@
+{
+  "schema_version": "1.2",
+  "site": {
+    "id": "ufo-archives",
+    "identity_source": "site_id",
+    "network": "unassigned",
+    "title": "UFO Archives",
+    "canonical_url": "https://ufo-archives.isaackoi.com",
+    "description": "Practical guides on UFO Archives, organized for fast browsing and comparison.",
+    "primary_focus_id": "ufo",
+    "focus_ids": [
+      "ufo"
+    ],
+    "primary_topic_ids": [],
+    "primary_subject_ids": []
+  },
+  "release_id": "release-59d5f8cbf82ab6090164",
+  "previous_release_id": "release-638f6d356aec7ef4e982",
+  "generated_at": "2026-08-13T16:35:21Z",
+  "entity_entrypoints": [],
+  "pages": [
+    {
+      "id": "ufo-archives:page:68c01cb6bd1be29f2f77b50a",
+      "logical_id": "ufo-report-databases-8352a3",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/ufo-report-databases/",
+      "title": "UFO Report Databases",
+      "summary": "UFO report databases and catalogues are not a single, unified body of evidence. They are a patchwork of witness-report repositories, government case files, investigative records, bibliographies and archival finding aids, each built for a different purpose.",
+      "hierarchy": {
+        "level": 1,
+        "parent_id": null
+      },
+      "tags": [
+        "ufo-report-databases"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:2d0044e132759d7b10ee45d193db7d028db1dd84fcacf93a423e80cbaf78c4fb",
+      "reconciliation_fingerprint": "sha256:64d9be5ec63ab84484d842a713886387de8086ad9669148244a2dec68283fbfa",
+      "updated_at": "2026-07-28 23:20:16",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/ufo-report-databases/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:1ff4a0e01c28d6f50acf2768",
+      "logical_id": "ufo-report-databases-8352a3-british-ufo-files-17629d",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/british-files/",
+      "title": "British Files",
+      "summary": "British UFO records are scattered across departmental series, making search terms, dates, and government provenance essential to finding useful files.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-archives:page:68c01cb6bd1be29f2f77b50a"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "british-files"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:9005fe91d11447e05ff589d95c0ccb91b9a67968724a99018e277ab0fa4aeda1",
+      "reconciliation_fingerprint": "sha256:eab41c0cba7ede5a0f7563586efb117602e85b4c01fec7cb43843fee6c02aa02",
+      "updated_at": "2026-07-29 00:15:31",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/british-files/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:9df3332f5271d0ea0ae80f85",
+      "logical_id": "ufo_report_databases_8352a3_british_ufo_files_17629d_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://ufo-archives.isaackoi.com/ufo-report-databases-8352a3-british/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on British Files.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-archives:page:1ff4a0e01c28d6f50acf2768"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:569cf6ca4aa76b2a061b7953026407ed277a6949efec77eb7e7e30edcc8df784",
+      "reconciliation_fingerprint": "sha256:dfe6fe383e55ff022d728015361fe269e9e61fb9e44074dd3986be6cebf5d184",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-archives:page:9f626f3a8f84f6d85d7ec485",
+      "logical_id": "ufo-report-databases-8352a3-british-ufo-files-17629d-mod-ufo-file-purpose-c67c22",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/mo-d-file-purpose/",
+      "title": "Mo D File Purpose",
+      "summary": "Ministry of Defence UFO records can document public correspondence, policy handling or intelligence assessment rather than one unified investigation.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:1ff4a0e01c28d6f50acf2768"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "british-files",
+        "mo-d-file-purpose"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:357e8047221f97075db435e75e0367cb25292f44dc16e3f6002e8e86257be1ce",
+      "reconciliation_fingerprint": "sha256:afd6ae7f5abcee6624bee30a5581a945b1ad2a3e76ba15f972d8e61cca6d0b77",
+      "updated_at": "2026-07-29 00:15:31",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/mo-d-file-purpose/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:1ca42bc887bc98aa3259570a",
+      "logical_id": "ufo-report-databases-8352a3-british-ufo-files-17629d-overseas-ufo-diploma-bc70f7",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/overseas-reports/",
+      "title": "Overseas Reports",
+      "summary": "Overseas UFO files often reveal how embassies relayed local claims and managed enquiries rather than how officials investigated the events.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:1ff4a0e01c28d6f50acf2768"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "british-files",
+        "overseas-reports"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:073f4a6403f52cec7391ee9cc44d66756ffe198a4812096af47bf3ab56984921",
+      "reconciliation_fingerprint": "sha256:a4702531b75d9033c34735c369671dae141a96ba79490c3028950a9fbb8f23fb",
+      "updated_at": "2026-07-29 00:44:15",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/overseas-reports/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:472d61c0b4ffa24ed2e7a682",
+      "logical_id": "ufo-report-databases-8352a3-british-ufo-files-17629d-raf-ufo-searches-956678",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/raf-searches/",
+      "title": "RAF Searches",
+      "summary": "Early RAF sightings are easier to locate when searches combine period language with airfields, commands, locations and narrow date ranges.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:1ff4a0e01c28d6f50acf2768"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "british-files",
+        "raf-searches"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:63507593af235f0e5edbc6f7be555d5e8cd8388878c100aead22c3a30df57565",
+      "reconciliation_fingerprint": "sha256:b547bf87a28b1546840951410f41c407e8e1ebed46cc7736634bcdab86e471a6",
+      "updated_at": "2026-07-29 00:15:32",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/raf-searches/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:b51a1a2e67805697f30dce3c",
+      "logical_id": "ufo-report-databases-8352a3-british-ufo-files-17629d-rendlesham-record-tr-be077b",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/rendlesham-files/",
+      "title": "Rendlesham Files",
+      "summary": "The Rendlesham incident appears across memoranda and later correspondence, showing how one event was copied, reframed and debated inside government.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:1ff4a0e01c28d6f50acf2768"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "british-files",
+        "rendlesham-files"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:71e96d26a538efc16e05adf6897f68c3389e22d73689f27ca6d53f46bfb2e3a6",
+      "reconciliation_fingerprint": "sha256:a9eae7dd2865a525b454c2bcc22285af87592e6e9497938444d1c96d7adf7f23",
+      "updated_at": "2026-07-29 00:44:14",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/rendlesham-files/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:d3b63fde53989e943bb217e6",
+      "logical_id": "ufo-report-databases-8352a3-british-ufo-files-17629d-weather-ufo-explanat-ec53bb",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/weather-records/",
+      "title": "Weather Records",
+      "summary": "Meteorological files can help test whether balloons, clouds, meteors or atmospheric effects match the date and place of a reported sighting.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:1ff4a0e01c28d6f50acf2768"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "british-files",
+        "weather-checks"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:10a79ecb7f21c374207656c83152d94017fbf962f23ec79b3bf329bca058057f",
+      "reconciliation_fingerprint": "sha256:92521270d9f983682fe80a1f8cce3e7b36f6733841e6c5f1dcc3d8821ad09444",
+      "updated_at": "2026-07-29 00:44:14",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/weather-records/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:c962a30ffc9e41972f4e2ab3",
+      "logical_id": "ufo-report-databases-8352a3-canadian-ufo-archive-1cacc9",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/canada-files/",
+      "title": "Canada Files",
+      "summary": "Canada's historical UFO records offer a separate national trail of military and civil documentation for comparing official reporting practices.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-archives:page:68c01cb6bd1be29f2f77b50a"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "canada-files"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:d1e81e554be422e2c071e7ec847de55c7b95771263f0ad5aee447070149e6931",
+      "reconciliation_fingerprint": "sha256:ac24a8e3d876917813f2be8a8513be75d42ce7057079cd4f0e3817fe8fd53033",
+      "updated_at": "2026-07-29 00:44:15",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/canada-files/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:db4e047b7114ba18e405c081",
+      "logical_id": "ufo-report-databases-8352a3-canadian-ufo-archive-1cacc9-canada-ufo-agency-tr-676eb4",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/agency-trail/",
+      "title": "Agency Trail",
+      "summary": "Canadian UFO reports often passed from witnesses to police, defence and scientific offices, creating uneven but traceable documentary trails.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:c962a30ffc9e41972f4e2ab3"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "canada-files",
+        "agency-trail"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:a102851bcb3df2b87407b13c902ec78ea1b78ab536de38536101337b4fc754c4",
+      "reconciliation_fingerprint": "sha256:5a6cdd542434ad32916e9aea595fc4c4f2b6150bd02900261d26a8f537d1727a",
+      "updated_at": "2026-07-29 01:32:15",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/agency-trail/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:ed03faa926bc59e6885839fa",
+      "logical_id": "ufo-report-databases-8352a3-canadian-ufo-archive-1cacc9-falcon-lake-unresolv-7c8177",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/falcon-lake/",
+      "title": "Falcon Lake",
+      "summary": "Falcon Lake produced medical, police and laboratory records, yet conflicting details prevented officials from reaching a final explanation.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:c962a30ffc9e41972f4e2ab3"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "canada-files",
+        "falcon-lake"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:0d16f4e37f50756f7638ff5a5b1528d87fb9603a03bf9c75c69030bad29589de",
+      "reconciliation_fingerprint": "sha256:55e593295c96679b6497fd93cb60390f3cf0af4db66afd176bef064cee0c6663",
+      "updated_at": "2026-07-29 01:32:15",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/falcon-lake/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:9007678231e8b0263f23481a",
+      "logical_id": "ufo_report_databases_8352a3_canadian_ufo_archive_1cacc9_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://ufo-archives.isaackoi.com/ufo-report-databases-8352a3-canadian/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Canada Files.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-archives:page:c962a30ffc9e41972f4e2ab3"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:ca3639633485ebdd0d3ce1acaeeed9eb3f193e6b23ce2caa56819122e94ab06a",
+      "reconciliation_fingerprint": "sha256:d0ef9d6838ba3b79b5f134952369333d2e37db9868e4e9dd1490108111092500",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-archives:page:86e771807ba979e053ebfec9",
+      "logical_id": "ufo-report-databases-8352a3-canadian-ufo-archive-1cacc9-project-magnet-propu-ed49e6",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/project-magnet/",
+      "title": "Project Magnet",
+      "summary": "Project Magnet used government facilities to test Wilbert Smith's ideas about geomagnetism, propulsion and reported flying saucers.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:c962a30ffc9e41972f4e2ab3"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "canada-files",
+        "project-magnet"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:2a5076f4ee3b76dc9f01d768baece1927aab815a1dc56b48807b80bd82fa8f5e",
+      "reconciliation_fingerprint": "sha256:f2af188ad16157840349641080d1996decf9b2a0702cf269aa5c488f5c95ce9c",
+      "updated_at": "2026-07-29 00:44:15",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/project-magnet/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:bcfb8702ad157cfa7346146a",
+      "logical_id": "ufo-report-databases-8352a3-canadian-ufo-archive-1cacc9-second-storey-larger-306db3",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/second-storey/",
+      "title": "Second Storey",
+      "summary": "Project Second Storey reviewed Canadian UFO reports and concluded that a major continuing investigation was not justified.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:c962a30ffc9e41972f4e2ab3"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "canada-files",
+        "second-storey"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:0357757ad5bba75f6cf35335f861b0103dddb142de8a1db9891326902241527c",
+      "reconciliation_fingerprint": "sha256:aabb685e44d6db10439c92f0f664e0494230379656be41be77b2cc41fd1c82c6",
+      "updated_at": "2026-07-29 00:44:16",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/second-storey/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:4b520250008b219ac86548ed",
+      "logical_id": "ufo-report-databases-8352a3-canadian-ufo-archive-1cacc9-shag-harbour-records-3effaf",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/shag-harbour/",
+      "title": "Shag Harbour",
+      "summary": "The Shag Harbour files confirm a serious search for a possible aviation emergency without identifying the reported lights.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:c962a30ffc9e41972f4e2ab3"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "canada-files",
+        "shag-harbour"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:2e9841dbfc416050bbac7a376971bc3508720ada2ddffddbfe7d1e7a0bedbf67",
+      "reconciliation_fingerprint": "sha256:e5998fc8d6684af20271e6358860982d9b3fb4c17703a46173ad60bd515f3a33",
+      "updated_at": "2026-07-29 01:32:14",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/shag-harbour/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:d614620829e68df6f42aab9f",
+      "logical_id": "ufo-report-databases-8352a3-compare-ufo-database-a3f8c9",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/database-comparison/",
+      "title": "Database Comparison",
+      "summary": "Database totals and unexplained rates cannot be compared fairly until differences in intake, geography, investigation, classification, and access are",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-archives:page:68c01cb6bd1be29f2f77b50a"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "database-comparison"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:0fb600ea7823ce261a8854bcde8e3a7d0fc64954ec9af97eb3985acd7f772916",
+      "reconciliation_fingerprint": "sha256:4394edf3392c6007459230ac6d4e827b2c516dd80a1440507ff3b4e2687b5e67",
+      "updated_at": "2026-07-29 03:14:35",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/database-comparison/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:e967d6e34eaad9616d54518e",
+      "logical_id": "ufo-report-databases-8352a3-compare-ufo-database-a3f8c9-choose-ufo-database-813b14",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/choose-a-database/",
+      "title": "Choose a Database",
+      "summary": "The best source depends on whether the goal is to study witness behaviour, investigated cases, official decisions or source trails.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:d614620829e68df6f42aab9f"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "database-comparison",
+        "choose-a-database"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:bd682e1279afdee372fe10f0cbbe8b9f2849e183b09612bcfa085238d4d919ba",
+      "reconciliation_fingerprint": "sha256:eb180e369716d05f4589eeb21c61e783d0354eb84bf3eaa7bc914d12018c7e23",
+      "updated_at": "2026-07-30 14:57:42",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/choose-a-database/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:0daaa1df9f226ed5dba0731f",
+      "logical_id": "ufo-report-databases-8352a3-compare-ufo-database-a3f8c9-duplicate-ufo-report-b7ead3",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/duplicates-7830f1/",
+      "title": "Duplicates",
+      "summary": "One widely seen light can become many database entries unless reports are carefully grouped into a single event.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:d614620829e68df6f42aab9f"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "database-comparison",
+        "duplicates"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:02de124f7da5f8fd94a0c605fc556d4d23b492f54108a465058c1082bdceac7c",
+      "reconciliation_fingerprint": "sha256:215e68d5be0815b1a49646dc43bfdb651a8f99776d6bebc0e1d25d1b485a8f06",
+      "updated_at": "2026-07-30 14:57:41",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/duplicates-7830f1/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:3fba0d194c8ea583229b62f2",
+      "logical_id": "ufo_report_databases_8352a3_compare_ufo_database_a3f8c9_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://ufo-archives.isaackoi.com/ufo-report-databases-8352a3-compare/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Database Comparison.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-archives:page:d614620829e68df6f42aab9f"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:7046a8bc2b92cf6949e6187c57f7cfd50c2dd461f3c14a69c9619ac0d0926cb7",
+      "reconciliation_fingerprint": "sha256:d039d9e990ed15354e89697ef8f4fde45257d01daed4ac7112f4a8310b98da74",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-archives:page:44bced93cb1feafba69658fe",
+      "logical_id": "ufo-report-databases-8352a3-compare-ufo-database-a3f8c9-ufo-archive-search-t-73088b",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/archive-totals/",
+      "title": "Archive Totals",
+      "summary": "Archive catalogues count preserved folders, photographs and correspondence, not a consistent number of sky events.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:d614620829e68df6f42aab9f"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "database-comparison",
+        "archive-totals"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:af1a9e789d1fbf9181c905b620b6147535f24202d0ff8d0d901ce70560449d82",
+      "reconciliation_fingerprint": "sha256:e3e7ce0b90849d99488bb53e454973b90476bb8d9a00a09a76cc2990919619da",
+      "updated_at": "2026-07-30 14:57:42",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/archive-totals/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:bc9dcde973ceb392a25c5740",
+      "logical_id": "ufo-report-databases-8352a3-compare-ufo-database-a3f8c9-ufo-case-counting-un-602ca2",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/case-counts/",
+      "title": "Case Counts",
+      "summary": "A UFO database row may represent a witness report, an investigated event, a source citation or an entire archival file.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:d614620829e68df6f42aab9f"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "database-comparison",
+        "case-counts"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:d6db64ddb742885994ebeb0bf22207389799b63fdba258d63bb133512aead154",
+      "reconciliation_fingerprint": "sha256:43acec2f26257c94d175204d9e6d5e3416b8821e15a0b175644fbc35a0a90cc5",
+      "updated_at": "2026-07-30 14:57:41",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/case-counts/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:9fed1e96b3502ec28cfb28b8",
+      "logical_id": "ufo-report-databases-8352a3-compare-ufo-database-a3f8c9-unexplained-rate-com-d3f69a",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/unexplained-rates/",
+      "title": "Unexplained Rates",
+      "summary": "An unexplained rate reflects each program's intake rules, evidence standards and classification language rather than a universal mystery score.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:d614620829e68df6f42aab9f"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "database-comparison",
+        "unexplained-rates"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:489adf2cac56ee572de806d8fbd8e3b7fa88535d91c1705c389228f32173a06b",
+      "reconciliation_fingerprint": "sha256:fa64019d2da70771b912a0c84d26d20c7eb291f0201fbc6c500d496c4f006d6e",
+      "updated_at": "2026-07-30 14:57:41",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/unexplained-rates/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:dc72b5df8a7d4d0d9d970982",
+      "logical_id": "ufo-report-databases-8352a3-duplicate-ufo-report-7377e2",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/duplicates/",
+      "title": "Duplicates",
+      "summary": "One incident can appear in several databases or through multiple witnesses, creating false clusters unless records are carefully matched and deduplicated.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-archives:page:68c01cb6bd1be29f2f77b50a"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "duplicates"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:b88bc131f13a3e0ef78be4f03875d7ca956ff3e260c0d3f7630c3da279db77fa",
+      "reconciliation_fingerprint": "sha256:b701d3439484d79d3242ccfcd25c6f7ba87819ec6fdc31194ba5dc240a35bffe",
+      "updated_at": "2026-07-29 01:32:15",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/duplicates/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:033d57a18e72a521f902a760",
+      "logical_id": "ufo-report-databases-8352a3-duplicate-ufo-report-7377e2-duplicate-reports-fa-46fced",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/false-patterns/",
+      "title": "False Patterns",
+      "summary": "Repeated records can manufacture apparent clusters, surges and statistical significance by giving one well-documented event excessive weight.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:dc72b5df8a7d4d0d9d970982"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "duplicates",
+        "false-patterns"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:285656766c38214536db2708793e2a4de6a483db471a638d22251b152c87a031",
+      "reconciliation_fingerprint": "sha256:6a676d0ab7b659d7f95e7df04c3f1f5de6ea88f44715ce11ff6a9fe3143a9446",
+      "updated_at": "2026-07-30 14:57:43",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/false-patterns/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:2169f5f01fdf16ff287ec6e5",
+      "logical_id": "ufo_report_databases_8352a3_duplicate_ufo_report_7377e2_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://ufo-archives.isaackoi.com/ufo-report-databases-8352a3-duplicate/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Duplicates.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-archives:page:dc72b5df8a7d4d0d9d970982"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:660a22989983fba1920705cca9de77c354898f32c9ec1342a4432b9376a330f5",
+      "reconciliation_fingerprint": "sha256:c8af611142f260562f87ff0b52f3db3e5de0b7c31fb3a4f23267bce63171d581",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-archives:page:5fc6cf002fc269e91bb65ebc",
+      "logical_id": "ufo-report-databases-8352a3-duplicate-ufo-report-7377e2-matching-duplicate-u-f9ff9e",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/matching-reports/",
+      "title": "Matching Reports",
+      "summary": "Reliable matching combines time, place, movement, narrative details and source history rather than relying on one identical field.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:dc72b5df8a7d4d0d9d970982"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "duplicates",
+        "matching-reports"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:bba175994ffe5f505e8aecf48af937cbd8b7757b615f02613d92e4596597ea93",
+      "reconciliation_fingerprint": "sha256:b16392d0dd82bec22a90cbec4b58993d7b3a7aa0114c34a9234d0c2f0c575a34",
+      "updated_at": "2026-07-30 14:57:43",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/matching-reports/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:2d460cdc06fbfc252060ea0d",
+      "logical_id": "ufo-report-databases-8352a3-duplicate-ufo-report-7377e2-one-event-many-recor-d84564",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/record-multiplication/",
+      "title": "Record Multiplication",
+      "summary": "One sighting can multiply across witness submissions, investigator files and later publications without becoming several independent events.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:dc72b5df8a7d4d0d9d970982"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "duplicates",
+        "record-multiplication"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:91fe3aa05bfe87d1431d1b4c1c86482313fa8db3c20c73ce2081e25311847ca3",
+      "reconciliation_fingerprint": "sha256:082d8c5b4bc95d59605f3bc3069ac148d0debadfeb30ac201f2820d6b00ae407",
+      "updated_at": "2026-07-30 14:57:42",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/record-multiplication/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:332a14e7eb35ef1d8995c458",
+      "logical_id": "ufo-report-databases-8352a3-duplicate-ufo-report-7377e2-ufocat-rows-vs-event-a4ba5f",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/ufocat-counts/",
+      "title": "UFOCAT Counts",
+      "summary": "UFOCAT preserves multiple references to the same sighting, so its total entries cannot be treated as a count of independent cases.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:dc72b5df8a7d4d0d9d970982"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "duplicates",
+        "ufocat-counts"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:19731511320554bea0f5cb7efa89fefbc40e6d261643cfa846904df3a19b5ee7",
+      "reconciliation_fingerprint": "sha256:b44114ce94b41a699fce788a952a63a101c4c44efc3137a71dbca0aa0e8fcc65",
+      "updated_at": "2026-07-30 14:57:43",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/ufocat-counts/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:e1e5e49edb653f9f00ad9910",
+      "logical_id": "ufo-report-databases-8352a3-duplicate-ufo-report-7377e2-witnesses-vs-event-c-4fd821",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/witness-counting/",
+      "title": "Witness Counting",
+      "summary": "Independent witnesses may strengthen a case while still representing one event for statistical counting and mapping.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:dc72b5df8a7d4d0d9d970982"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "duplicates",
+        "witness-counting"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:2e1b9cf116ee654f9fe460fbb36bc621dadbddf87875576a78cad1ff5c09c009",
+      "reconciliation_fingerprint": "sha256:76b3428f537820929e6be2222fb1de45e95be6f13faafd3f8f23b74e2fa0e68e",
+      "updated_at": "2026-07-30 14:57:43",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/witness-counting/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:f29b1a44fc7a7f653cdd4ee8",
+      "logical_id": "ufo-report-databases-8352a3-geipan-classificatio-330a88",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/geipan/",
+      "title": "GEIPAN",
+      "summary": "GEIPAN separates identified, poorly documented, and genuinely unresolved cases through a public investigation and classification system.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-archives:page:68c01cb6bd1be29f2f77b50a"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "geipan"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:0fe97366b5e758024fac12c1a0eede3710bab61f79e781269b6790b8e18b36a0",
+      "reconciliation_fingerprint": "sha256:17887e97f28ea4f2eab20e31d5dbcd56bb118c7eacbbc0d5209ed36405d1f2e9",
+      "updated_at": "2026-07-28 23:50:31",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/geipan/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:c0c5c4f98d11b08e18919590",
+      "logical_id": "ufo-report-databases-8352a3-geipan-classificatio-330a88-geipan-aircraft-reco-149fc4",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/aircraft-cases/",
+      "title": "Aircraft Cases",
+      "summary": "GEIPAN tests whether lighting, perspective and terrain can make an ordinary aircraft appear stationary, saucer-shaped or beam-like.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:f29b1a44fc7a7f653cdd4ee8"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "geipan",
+        "aircraft-cases"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:8353352ca3cd92eb367359caece15800dfafbed147fa0fddd491a0339ff48418",
+      "reconciliation_fingerprint": "sha256:0739694bfbffb4b81c8ecc2b1cb5b9ce713d683d0a4f8ce3b52840b51e0172fc",
+      "updated_at": "2026-07-28 23:50:33",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/aircraft-cases/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:0a6ce84181c029a5a0ee661e",
+      "logical_id": "ufo-report-databases-8352a3-geipan-classificatio-330a88-geipan-case-reclassi-0a8a89",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/reclassification/",
+      "title": "Reclassification",
+      "summary": "Reinvestigations, better tools and stricter standards can move old Class D files into identified or inconclusive categories.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:f29b1a44fc7a7f653cdd4ee8"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "geipan",
+        "reclassification"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:36c41e5d3f6eef3e6809cbb87143f41ed008d91467da4a47e3ebc00f4e06d4db",
+      "reconciliation_fingerprint": "sha256:661355dd257217653f6a3bfd6b62f5c1c6e0d634717dbac004d1aa235aad3d80",
+      "updated_at": "2026-07-28 23:50:34",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/reclassification/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:44767efac607e62d90df9a28",
+      "logical_id": "ufo-report-databases-8352a3-geipan-classificatio-330a88-geipan-class-c-limit-97f2e3",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/class-c/",
+      "title": "Class C",
+      "summary": "Class C means investigators lacked reliable evidence, not that they found a strong mystery that resisted explanation.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:f29b1a44fc7a7f653cdd4ee8"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "geipan",
+        "class-c"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:b134ad67cef631be4c3e2736a3b216a91e56ca92fe370c61db4241b3a6c8f759",
+      "reconciliation_fingerprint": "sha256:f48f6b295a14ff66b272ace687dae16e081d2ea2a6b5222f5e6bc6cd13455ef4",
+      "updated_at": "2026-07-28 23:50:33",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/class-c/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:ade1666352ca33bd8a7d833c",
+      "logical_id": "ufo-report-databases-8352a3-geipan-classificatio-330a88-geipan-class-d-thres-4f8179",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/class-d/",
+      "title": "Class D",
+      "summary": "A sighting reaches Class D only when its residual strangeness is high and the supporting information is judged sufficiently consistent.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:f29b1a44fc7a7f653cdd4ee8"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "geipan",
+        "class-d"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:28f9a8fbab6d15d357eacbb64c717b5a3db5626098a24d0a7ef9248bff3aa328",
+      "reconciliation_fingerprint": "sha256:9b0aee9c2a2eb31a95c07768b41381adc9ae3d33137ceb7f5a0542c016c642aa",
+      "updated_at": "2026-07-28 23:50:33",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/class-d/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:7e6cc710aa4bae5a61d15aa4",
+      "logical_id": "ufo-report-databases-8352a3-geipan-classificatio-330a88-geipan-statistics-me-2e21de",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/case-statistics/",
+      "title": "Case Statistics",
+      "summary": "GEIPAN's percentages describe classified reports and evidence quality, not the frequency of unexplained objects in French airspace.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:f29b1a44fc7a7f653cdd4ee8"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "geipan",
+        "case-statistics"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:2b4670fe885eb7840d9bf173b724a48ccf52139397c1f88e5f18f98117c9374c",
+      "reconciliation_fingerprint": "sha256:49b7f873c5bdfab94f0d2e85f66491395d2b7e32dc118f5e1317f0c18862f9ad",
+      "updated_at": "2026-07-28 23:50:34",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/case-statistics/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:0044c1ec9ae29f5d89c99a00",
+      "logical_id": "ufo_report_databases_8352a3_geipan_classificatio_330a88_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://ufo-archives.isaackoi.com/ufo-report-databases-8352a3-geipan/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on GEIPAN.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-archives:page:f29b1a44fc7a7f653cdd4ee8"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:04a4941e0c3fb25ac92385f4aebe551e8e4572875d23017a855987c8226664ee",
+      "reconciliation_fingerprint": "sha256:2a9399a1410d84c59a6614b67773e9f2447b0a764a2c577c93875f0d17b56056",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-archives:page:0293ec7818a79d9a86475fbf",
+      "logical_id": "ufo_report_databases_8352a3_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://ufo-archives.isaackoi.com/ufo-report-databases-8352a3-index/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on UFO Report Databases.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-archives:page:68c01cb6bd1be29f2f77b50a"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:2f8b8c017c0cfae9b92238dbc02a918130d247550f79b71c9305db7ec7436368",
+      "reconciliation_fingerprint": "sha256:65b3a2926f260de4484a444c0b865bf6dad1309992ecd53bbe14b062501d8225",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-archives:page:0c33eda10fdb4dcb8e054723",
+      "logical_id": "ufo-report-databases-8352a3-meaning-of-unidentif-199dca",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/unidentified/",
+      "title": "Unidentified",
+      "summary": "A case remains unidentified when available evidence does not support a satisfactory explanation, which is not the same as confirming an extraordinary craft.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-archives:page:68c01cb6bd1be29f2f77b50a"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "unidentified"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:b8542772a8c082f01223590628b0d74341f7be93531fed8d25dffcd7fefc3abc",
+      "reconciliation_fingerprint": "sha256:04b3a62f37c3740133ec380f2d0be827b201c853e97eb5dc1daca23fd6e8317c",
+      "updated_at": "2026-07-29 01:57:15",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/unidentified/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:5c0803e38536bdf94f8affb6",
+      "logical_id": "ufo-report-databases-8352a3-meaning-of-unidentif-199dca-gofast-motion-parall-80b7dc",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/go-fast-parallax/",
+      "title": "Go Fast Parallax",
+      "summary": "Reconstructing viewing geometry showed that the GoFast object's apparent speed was partly an effect of motion parallax.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:0c33eda10fdb4dcb8e054723"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "unidentified",
+        "go-fast-parallax"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:a071866432f25250cf3823811c98009e294376a2a24e8e0053622059830a73c6",
+      "reconciliation_fingerprint": "sha256:f010419df916a38698b841bed0a1c7ea1ccf2b12f2870c27c1a2f261912c75e4",
+      "updated_at": "2026-07-30 16:21:43",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/go-fast-parallax/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:4fcb8968e1a2145209418332",
+      "logical_id": "ufo_report_databases_8352a3_meaning_of_unidentif_199dca_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://ufo-archives.isaackoi.com/ufo-report-databases-8352a3-meaning-of/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Unidentified.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-archives:page:0c33eda10fdb4dcb8e054723"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:a6477e0987119d0f9fa86b55be10184696e781e0f6e26797e507d7b3ff7cc05c",
+      "reconciliation_fingerprint": "sha256:6f2b9531375e835aa650f33318108661917233ee11b5eff14b893be0a861c22c",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-archives:page:502fd8f87d317ee97d5d4948",
+      "logical_id": "ufo-report-databases-8352a3-meaning-of-unidentif-199dca-infrared-ufo-sensor-4eaa20",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/infrared-effects/",
+      "title": "Infrared Effects",
+      "summary": "Glare, tracking changes and shifting heat contrast can make ordinary objects seem to accelerate, vanish or change shape.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:0c33eda10fdb4dcb8e054723"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "unidentified",
+        "infrared-effects"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:d0f16e67a04f1aac51d52eca08cea9d9ca435d4e05df548552d279f0a1116a35",
+      "reconciliation_fingerprint": "sha256:7efdb9c129a38ea79ce5f580775ebebf77ea18b5f00ec442a54fc548a68579b4",
+      "updated_at": "2026-07-30 16:21:19",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/infrared-effects/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:2eddee587f68c6b34b35a6aa",
+      "logical_id": "ufo-report-databases-8352a3-meaning-of-unidentif-199dca-starlink-pilot-sight-009d01",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/starlink-pilots/",
+      "title": "Starlink Pilots",
+      "summary": "Five commercial pilots reported unusual Pacific lights later matched to newly launched Starlink satellites under rare viewing conditions.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:0c33eda10fdb4dcb8e054723"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "unidentified",
+        "starlink-pilots"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:5038c20f8db50dc8d3ba9ca065f431aa7ed0dbdb8c37caec0d7ffa4f5d3b1f1b",
+      "reconciliation_fingerprint": "sha256:46a0d201c174e819fbc71405579583a162dc45dc2561a921743bce5cedbef345",
+      "updated_at": "2026-07-30 16:21:43",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/starlink-pilots/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:72bbfc5f084a67db45d4aa67",
+      "logical_id": "ufo-report-databases-8352a3-meaning-of-unidentif-199dca-ufo-unresolved-perce-b08405",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/unresolved-totals/",
+      "title": "Unresolved Totals",
+      "summary": "An unresolved percentage mixes strong resistant cases with reports that simply lack enough information for confident identification.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:0c33eda10fdb4dcb8e054723"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "unidentified",
+        "unresolved-totals"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:ec75745a488b7c4ec8197130041e2b942c632f4caf8223a51b21edacacb925a2",
+      "reconciliation_fingerprint": "sha256:8c7cf4c347f922d3c6c6feda2f0829f914d151917d478c3ddb2af6a6fdcf95d3",
+      "updated_at": "2026-07-30 16:21:44",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/unresolved-totals/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:083912c27d2d9f3c9d50621d",
+      "logical_id": "ufo-report-databases-8352a3-meaning-of-unidentif-199dca-ufo-video-missing-me-b7f6f6",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/missing-metadata/",
+      "title": "Missing Metadata",
+      "summary": "A striking UFO video may remain unresolved when distance, camera settings, platform motion or original files are missing.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:0c33eda10fdb4dcb8e054723"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "unidentified",
+        "missing-metadata"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:cbd6db775c7a57eddfe8abb49936282976e427a322b973c9a395f60722baaa44",
+      "reconciliation_fingerprint": "sha256:f4c1a418d4f76e3d4b682fab706fbae934042b85dcab701c6a2b686850dbb7fe",
+      "updated_at": "2026-07-30 16:21:46",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/missing-metadata/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:d53c956ba98179145907da30",
+      "logical_id": "ufo-report-databases-8352a3-mufon-case-access-105270",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/mufon/",
+      "title": "MUFON",
+      "summary": "MUFON cases may include interviews, images, and investigator findings, although paid access and uneven volunteer work limit transparency.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-archives:page:68c01cb6bd1be29f2f77b50a"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "mufon"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:c2623462106c0a28b63824a050fb7e7467cc1b31d5184c38ff41caee95cc4246",
+      "reconciliation_fingerprint": "sha256:ab815c471d2832864b47263f2b8457a2e3bd88b5a0036d772caccc6e90f1666c",
+      "updated_at": "2026-07-28 23:20:23",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/mufon/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:306fd06a65000fe6681463d7",
+      "logical_id": "ufo_report_databases_8352a3_mufon_case_access_105270_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://ufo-archives.isaackoi.com/ufo-report-databases-8352a3-mufon-case/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on MUFON.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-archives:page:d53c956ba98179145907da30"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:90bab06e89eaf26c765e0d58f832c2f95da5ba89d2d02054ed6924f743d430c3",
+      "reconciliation_fingerprint": "sha256:36e832e136bbcb03404e81f7e420baaf2cd9cde4950cd1e3d4ab23e2c47e82a5",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-archives:page:1662b343d5d0a71410ec727d",
+      "logical_id": "ufo-report-databases-8352a3-mufon-case-access-105270-mufon-case-file-qual-fa0ff7",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/case-file-quality/",
+      "title": "Case File Quality",
+      "summary": "The most useful MUFON files combine original media, precise timing, independent witnesses and a documented process for eliminating explanations.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:d53c956ba98179145907da30"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "mufon",
+        "case-file-quality"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:5838ed79654b0d72012e451a80bcb60446c78b21c7417e802d09e175db54843c",
+      "reconciliation_fingerprint": "sha256:400c8648830870bfe08d5d202e00956a7814df043d4bbc6de356d65151552bb0",
+      "updated_at": "2026-07-28 23:50:31",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/case-file-quality/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:955dfc542225d323acb667bc",
+      "logical_id": "ufo-report-databases-8352a3-mufon-case-access-105270-mufon-historic-recor-ebc7d2",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/historic-records/",
+      "title": "Historic Records",
+      "summary": "Digitization can preserve historic reports, but it cannot recreate missing attachments, undocumented decisions or fields never recorded on paper.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:d53c956ba98179145907da30"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "mufon",
+        "historic-records"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:af063fc2a42a8668aa70063ddf72242f4f181b8fca6fad19d93192ae0508e002",
+      "reconciliation_fingerprint": "sha256:645f6da572ffff4419b79cecc78d1c3e9196f3a711d59ce158cecd600689e73d",
+      "updated_at": "2026-07-28 23:50:31",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/historic-records/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:dbc1446faf0dcb18d85f3038",
+      "logical_id": "ufo-report-databases-8352a3-mufon-case-access-105270-mufon-investigator-c-6fc4df",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/investigator-checks/",
+      "title": "Investigator Checks",
+      "summary": "MUFON investigators compare witness accounts with aircraft, astronomy, weather, satellites and image clues before leaving a case unresolved.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:d53c956ba98179145907da30"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "mufon",
+        "investigator-checks"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:2b14e6c5622b02f3f73072bce431fab3b3b33c5e9131702a1fdd6a3ed895d2fa",
+      "reconciliation_fingerprint": "sha256:c732d74b1ac918c87165c89d675e42288b09bb7575de4756325b8bfb29abf5fa",
+      "updated_at": "2026-07-28 23:20:25",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/investigator-checks/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:b46a16e85288e7854779065a",
+      "logical_id": "ufo-report-databases-8352a3-mufon-case-access-105270-mufon-member-databas-c76000",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/member-access/",
+      "title": "Member Access",
+      "summary": "Paid access opens searchable reports and selected attachments, but confidential witness details and internal case records remain restricted.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:d53c956ba98179145907da30"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "mufon",
+        "member-access"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:0342ebab8298dce8df2686b6cdb3dc1fe4c67fd20b2e52ed7f0eea9342544143",
+      "reconciliation_fingerprint": "sha256:6cd10134aa3e8d85c218326cde65c34eb5d2fa3df9055647dc8bb05dde5182c6",
+      "updated_at": "2026-07-28 23:50:30",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/member-access/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:885da64174b1fd4eec726bf2",
+      "logical_id": "ufo-report-databases-8352a3-mufon-case-access-105270-mufon-unexplained-la-a80dee",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/unexplained-labels/",
+      "title": "Unexplained Labels",
+      "summary": "An unexplained MUFON case may reflect unusual evidence, but it can also result from missing data, weak imagery or an unavailable witness.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:d53c956ba98179145907da30"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "mufon",
+        "unexplained-labels"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:f32c14ed23e1086653a2f71980e8f9a5f8e797f25c0711fb2fa8d70929ac47e9",
+      "reconciliation_fingerprint": "sha256:9fea457deab34e1afd08ecf06e91fcdd6363e42569d7e3f6cdf2ff6654864d3f",
+      "updated_at": "2026-07-28 23:20:26",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/unexplained-labels/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:c72a3091efe2c9e7c77b51a9",
+      "logical_id": "ufo-report-databases-8352a3-nuforc-report-limits-750bea",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/nuforc/",
+      "title": "NUFORC",
+      "summary": "NUFORC offers an unusually large collection of witness accounts, but its patterns reflect reporting behavior as well as events in the sky.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-archives:page:68c01cb6bd1be29f2f77b50a"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "nuforc"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:75a0e3467fb2e9e552299262122d474566f9e0dc386db5d43c352988344eb186",
+      "reconciliation_fingerprint": "sha256:71c3863ec4d151da2d773c2ffb98717bd5d643c00b3c59563fb47db2c4951e75",
+      "updated_at": "2026-07-28 23:20:18",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/nuforc/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:abdf374eb689a55613d3dcd7",
+      "logical_id": "ufo_report_databases_8352a3_nuforc_report_limits_750bea_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://ufo-archives.isaackoi.com/ufo-report-databases-8352a3-nuforc/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on NUFORC.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-archives:page:c72a3091efe2c9e7c77b51a9"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:2c0339e9eef114198d8f38d452b727a3a852840d0aafffe1cbdec9cc10949a3c",
+      "reconciliation_fingerprint": "sha256:6ee34fb7a68525bf491542167ed4d32d3e3269e3e52bba38ceea50e2e2764744",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-archives:page:0ba8e77530b035d42ce6e333",
+      "logical_id": "ufo-report-databases-8352a3-nuforc-report-limits-750bea-nuforc-review-verifi-74ea56",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/review-limits/",
+      "title": "Review Limits",
+      "summary": "NUFORC categories and quality tiers add useful context, but they do not turn witness estimates into uniformly investigated conclusions.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:c72a3091efe2c9e7c77b51a9"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "nuforc",
+        "review-limits"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:f2481259988b210d5a401b0e1148a3e82c989a3d5fa647acd583497a79e9aff4",
+      "reconciliation_fingerprint": "sha256:10b9548b0ea05de2229171c321f46bcd9de893f564cb0b8addfb50ac92851f05",
+      "updated_at": "2026-07-28 23:20:23",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/review-limits/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:c37a67c2c11feb825c40d8fb",
+      "logical_id": "ufo-report-databases-8352a3-nuforc-report-limits-750bea-ufo-event-vs-submiss-9cae65",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/date-gaps/",
+      "title": "Date Gaps",
+      "summary": "A UFO report's event date and posting date can tell very different stories about when sightings and reporting surges occurred.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:c72a3091efe2c9e7c77b51a9"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "nuforc",
+        "date-gaps"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:ceaf95d7c21fc2cc0f5e16e4974f292e8c945dcf9d7118941484d5772aaf48b5",
+      "reconciliation_fingerprint": "sha256:f34810d73bec7eadfd756324a99bb393aefa5ea6172d949d3c6bec2deb7807fb",
+      "updated_at": "2026-07-28 23:20:21",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/date-gaps/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:f66eb49a49f45aed34b0ef0b",
+      "logical_id": "ufo-report-databases-8352a3-nuforc-report-limits-750bea-ufo-hotspots-sky-vis-26efa5",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/hotspot-bias/",
+      "title": "Hotspot Bias",
+      "summary": "Clusters of NUFORC reports may arise from population, dark skies and viewing opportunity as much as from unusual aerial events.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:c72a3091efe2c9e7c77b51a9"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "nuforc",
+        "hotspot-bias"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:ff95e9b6899b29bc36c646d6bf3df35b5a0a9da36471d151e0d7805efc167adc",
+      "reconciliation_fingerprint": "sha256:bd0bacf4ba40332116b54d36cc9e2c46b3872664b6500fe96ea75f2dde54f47a",
+      "updated_at": "2026-07-28 23:20:22",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/hotspot-bias/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:dd62bbf660515a837912fd51",
+      "logical_id": "ufo-report-databases-8352a3-nuforc-report-limits-750bea-ufo-media-reporting-2b6892",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/attention-surges/",
+      "title": "Attention Surges",
+      "summary": "News coverage, online interest and wider social conditions can increase UFO submissions without any matching rise in aerial phenomena.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:c72a3091efe2c9e7c77b51a9"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "nuforc",
+        "attention-surges"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:e944be48f22e35afdd52d94bbe05159d11ce522245a240f0ed3da86de5115173",
+      "reconciliation_fingerprint": "sha256:5fba5b8897317b00c23f427cebfdf228271a1255b0a090140b18a5f1cebf5599",
+      "updated_at": "2026-07-28 23:20:23",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/attention-surges/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:9ff0b2ced35d65d0686a673d",
+      "logical_id": "ufo-report-databases-8352a3-nuforc-report-limits-750bea-ufo-reporting-self-s-6473cc",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/self-selection/",
+      "title": "Self Selection",
+      "summary": "NUFORC totals reflect who chooses to report, not a random sample of everyone who sees something unusual in the sky.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:c72a3091efe2c9e7c77b51a9"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "nuforc",
+        "self-selection"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:c2136b4e2ddd1f038c718161cb8ca7b6157fd142beb4c9b5f37caded756f8bc1",
+      "reconciliation_fingerprint": "sha256:f6f6a6541573eb181028c6ec17babbbc7e927388a274022b4430ce3048a54d02",
+      "updated_at": "2026-07-28 23:20:20",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/self-selection/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:9d734071c0639c4cdb6e08e8",
+      "logical_id": "ufo-report-databases-8352a3-project-blue-book-re-ad1d41",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/blue-book/",
+      "title": "Blue Book",
+      "summary": "Project Blue Book preserved thousands of military-era reports, but an unidentified ruling meant no satisfactory explanation was reached, not that aliens were",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-archives:page:68c01cb6bd1be29f2f77b50a"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "blue-book"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:a20f729f20fa8d582573f74f11d232b69c87e9e12751e934cdc10fa3fe890539",
+      "reconciliation_fingerprint": "sha256:43371ba77e7748355514e52547b8f1ea74f4e37903719f891297c86dc48b9de2",
+      "updated_at": "2026-07-28 23:50:34",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/blue-book/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:38a99dca0725c0df681a2b2c",
+      "logical_id": "ufo-report-databases-8352a3-project-blue-book-re-ad1d41-blue-book-701-cases-f37369",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/the-701-cases/",
+      "title": "The 701 Cases",
+      "summary": "The 701 cases were a mixed residual set of reports with different witnesses, evidence quality and reasons for remaining inconclusive.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:9d734071c0639c4cdb6e08e8"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "blue-book",
+        "the-701-cases"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:1e2ea635325439b16af0c0a7386b8b287231d2b1b79031638f966f1a7107f62e",
+      "reconciliation_fingerprint": "sha256:86ed4a84225e55ba4382cc12f40745ec41a807a3584ec4fb6daf5d8b51d7d01a",
+      "updated_at": "2026-07-28 23:50:35",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/the-701-cases/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:6c6683a29af2e14fa68dc87c",
+      "logical_id": "ufo-report-databases-8352a3-project-blue-book-re-ad1d41-blue-book-investigat-173df9",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/investigation-checks/",
+      "title": "Investigation Checks",
+      "summary": "Investigators compared reports with flights, balloons, astronomy, weather and radar records before deciding whether a case remained unresolved.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:9d734071c0639c4cdb6e08e8"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "blue-book",
+        "investigation-checks"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:4dbc55f8824865da8dc2bbcc3cf41e5095ea99e418e7db719cc47ff1e9e25b69",
+      "reconciliation_fingerprint": "sha256:cc3fa3392a38f9555dbf3b3ee411ffd72b271177bbb2c4cb585bd170fdc606ec",
+      "updated_at": "2026-07-28 23:50:35",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/investigation-checks/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:c21dbd318599df85ebb674d6",
+      "logical_id": "ufo-report-databases-8352a3-project-blue-book-re-ad1d41-blue-book-unidentifi-813264",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/unidentified-label/",
+      "title": "Unidentified Label",
+      "summary": "An unidentified ruling meant investigators lacked a confident conventional match, not that the Air Force had confirmed alien technology.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:9d734071c0639c4cdb6e08e8"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "blue-book",
+        "unidentified-label"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:4727dd4c32d7cb55955d5d84b902b6de7380457e1d3433ae8e16fd7d35eaba55",
+      "reconciliation_fingerprint": "sha256:9ee03d66e36ca08024c2f9c0b478df95fec5f1a282b2bfd49a06bdb48a53df18",
+      "updated_at": "2026-07-28 23:50:34",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/unidentified-label/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:8b442250b267c28957e646df",
+      "logical_id": "ufo-report-databases-8352a3-project-blue-book-re-ad1d41-cold-war-blue-book-r-143ae8",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/cold-war-context/",
+      "title": "Cold War Context",
+      "summary": "Air defence concerns influenced which sightings drew attention, what investigators checked and how military context entered the surviving files.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:9d734071c0639c4cdb6e08e8"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "blue-book",
+        "cold-war-context"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:b5fc6bdc2405e93dedea150b0fa4ef4da1687b58b6a37a0e1c6f5eec525c7d55",
+      "reconciliation_fingerprint": "sha256:5b056e015e228062641de1edf07589857248474e6b4dacb993867bc3e3af69bb",
+      "updated_at": "2026-07-29 00:15:30",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/cold-war-context/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:c925459ed234f1f0c5344ca9",
+      "logical_id": "ufo_report_databases_8352a3_project_blue_book_re_ad1d41_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://ufo-archives.isaackoi.com/ufo-report-databases-8352a3-project/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Blue Book.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-archives:page:9d734071c0639c4cdb6e08e8"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:234c22259b482454e00022834800299846be6742ac963bb8f8c336507cd45f38",
+      "reconciliation_fingerprint": "sha256:e4e1c243a03cab5d8ef063abdbaa1750b5cd74bc0cb1014696327e80a3afeefb",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-archives:page:9fe9bf740816c37f843c471f",
+      "logical_id": "ufo-report-databases-8352a3-project-blue-book-re-ad1d41-special-report-14-de-2846d7",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/report-14/",
+      "title": "Report 14",
+      "summary": "The statistical study found differences between known and unknown reports but could not determine whether those differences reflected unusual objects or",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:9d734071c0639c4cdb6e08e8"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "blue-book",
+        "report-14"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:7ba4f3fc0aa559754ac1c7f3b417ad0fbfc7a7ab9a4b3d6035ff7e11cb5389e9",
+      "reconciliation_fingerprint": "sha256:a315e0f7cf3b5790452b05458f97b9198d38dcb00071d4b50d276e1cd3769a05",
+      "updated_at": "2026-07-29 00:15:30",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/report-14/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:4b2d7d76d30c0036c3fee841",
+      "logical_id": "ufo-report-databases-8352a3-reports-vs-case-file-770b4b",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/reports-vs-files/",
+      "title": "Reports vs Files",
+      "summary": "A first-hand account records what someone says they saw, while an investigated file adds checks, context, competing explanations, and a documented conclusion.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-archives:page:68c01cb6bd1be29f2f77b50a"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "reports-vs-files"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:4ec5b1efd2bcbba04481dc68f58aa2d7a5bcc6f1034824e2df374f83ff42732a",
+      "reconciliation_fingerprint": "sha256:c67ea9c259ecc1ae4b44f345d21355b9c3abf98eabf05f9c6ea0add4afc09c96",
+      "updated_at": "2026-07-29 02:23:06",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/reports-vs-files/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:8d220a6acd53e8e1aafc3eee",
+      "logical_id": "ufo-report-databases-8352a3-reports-vs-case-file-770b4b-blue-book-file-layer-0693b7",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/blue-book-files/",
+      "title": "Blue Book Files",
+      "summary": "Blue Book case files let readers compare original testimony with the Air Force's explanation, paperwork and investigative priorities.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:4b2d7d76d30c0036c3fee841"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "reports-vs-files",
+        "blue-book-files"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:0f87e9c2be39f54c6775ff82137b6520b1ae8e9b3f8b2974bbd3a84378821a84",
+      "reconciliation_fingerprint": "sha256:316e99b7f7999ffabce22a965ee675ae052121ad9a41c835bd5cca32dab97e96",
+      "updated_at": "2026-07-30 16:21:53",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/blue-book-files/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:13b094b661109838f8bc5eef",
+      "logical_id": "ufo-report-databases-8352a3-reports-vs-case-file-770b4b-independent-ufo-witn-60026e",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/independent-witnesses/",
+      "title": "Independent Witnesses",
+      "summary": "Several reports strengthen a UFO case only when witnesses observed separately and did not shape one another's accounts.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:4b2d7d76d30c0036c3fee841"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "reports-vs-files",
+        "independent-witnesses"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:b5a81330e57b8c01b9ca0ede909d0b72cc1285fe4faf1afedd3f8a04c3c27e9d",
+      "reconciliation_fingerprint": "sha256:7c8617ed263398bab394e6ec3d5d84840b75fb6f7c55f1c724d22973e01f2bd5",
+      "updated_at": "2026-07-30 16:21:55",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/independent-witnesses/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:6293e744d5ef6f7d1da3d789",
+      "logical_id": "ufo_report_databases_8352a3_reports_vs_case_file_770b4b_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://ufo-archives.isaackoi.com/ufo-report-databases-8352a3-reports-vs/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Reports vs Files.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-archives:page:4b2d7d76d30c0036c3fee841"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:b9073cb64de95dd93c18a4bc396e96db261bd59bb75e2f46e169eae0a27b13e6",
+      "reconciliation_fingerprint": "sha256:9e0de6a41371f12f023de31c23db69a7684420466e8209416d7288e16389b2cc",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-archives:page:ab4a8b185ef70db359939943",
+      "logical_id": "ufo-report-databases-8352a3-reports-vs-case-file-770b4b-ufo-distance-size-sp-dcf2fd",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/distance-errors/",
+      "title": "Distance Errors",
+      "summary": "Without a reliable distance estimate, dramatic claims about a UFO's physical size or speed cannot be calculated securely.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:4b2d7d76d30c0036c3fee841"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "reports-vs-files",
+        "distance-errors"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:a208fb657d9b7c179814392290b8c53893a3b2d637cc9097d76da0c555a50efc",
+      "reconciliation_fingerprint": "sha256:b3d23eac496fbb9196252b88e537a015c39dc82e30da6c3e5bccfdf54a5d348c",
+      "updated_at": "2026-07-30 16:21:57",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/distance-errors/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:b1d00ad2308a567cf100ac87",
+      "logical_id": "ufo-report-databases-8352a3-reports-vs-case-file-770b4b-ufo-viewing-geometry-3112a8",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/viewing-geometry/",
+      "title": "Viewing Geometry",
+      "summary": "Maps, compass bearings and visible horizons can test whether a reported UFO path matches aircraft, satellites or celestial objects.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:4b2d7d76d30c0036c3fee841"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "reports-vs-files",
+        "viewing-geometry"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:b431c3796685199f4eb87921ba2414cc3933545c11a9475c98cb8603b1510269",
+      "reconciliation_fingerprint": "sha256:534f03730a5241f612c453e00f42eae97e8e0258f85823c8de1ee7e3f7bff4b5",
+      "updated_at": "2026-07-30 16:21:58",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/viewing-geometry/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:d8f7e42ec4c7d866aed73bda",
+      "logical_id": "ufo-report-databases-8352a3-reports-vs-case-file-770b4b-unexplained-ufo-mean-3c36bb",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/unexplained-cases/",
+      "title": "Unexplained Cases",
+      "summary": "A case may remain open because evidence is missing, contradictory or genuinely resistant to identification after investigation.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:4b2d7d76d30c0036c3fee841"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "reports-vs-files",
+        "unexplained-cases"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:20bf49bf6583b4ecc7be1255db341daf9e18c0fb57af1b4c53fca5736322ebaf",
+      "reconciliation_fingerprint": "sha256:3e98e0ee02d65eceb400b1b79ef361ca9c42082fcbfad87fa94fad2ce4a744b3",
+      "updated_at": "2026-07-30 16:21:58",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/unexplained-cases/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:67db9b5958559b7cc5272e9c",
+      "logical_id": "ufo-report-databases-8352a3-research-ufo-date-06f9e5",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/search-by-date/",
+      "title": "Search by Date",
+      "summary": "A strong date-based search checks public reports, investigated cases, government files, and local context without assuming matching entries are independent.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-archives:page:68c01cb6bd1be29f2f77b50a"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "search-by-date"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:2cfc0bef7684dd74d87f01e7f6e56d6b478d2c3b35d95ee052da640a6ecb2452",
+      "reconciliation_fingerprint": "sha256:dece21eeef77bf6265e433b165c13d4d14cb5cbd5c31fd41707348fdbf77d202",
+      "updated_at": "2026-07-29 02:51:57",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/search-by-date/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:b55741db44a058c994b0f26b",
+      "logical_id": "ufo-report-databases-8352a3-research-ufo-date-06f9e5-independent-vs-dupli-9f5360",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/duplicate-reports/",
+      "title": "Duplicate Reports",
+      "summary": "Several catalogue entries may describe one shared event, one copied account, or genuinely separate observations from different locations.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:67db9b5958559b7cc5272e9c"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "search-by-date",
+        "duplicate-reports"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:f4317ee9cd119a7e965c7c1493a28033a8cb2fbe7001994225ee6e703642bd90",
+      "reconciliation_fingerprint": "sha256:019cbdf44cb31ef0fab0ee049cdc25aa8660234d099d73d0f8df668314879e74",
+      "updated_at": "2026-07-30 14:31:36",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/duplicate-reports/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:373d96cc7e9c7219cb4104ba",
+      "logical_id": "ufo_report_databases_8352a3_research_ufo_date_06f9e5_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://ufo-archives.isaackoi.com/ufo-report-databases-8352a3-research/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Search by Date.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-archives:page:67db9b5958559b7cc5272e9c"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:cb979418d46e4f104a6fb2efe4f17aac640f56029306de4606d9a3136031d1bc",
+      "reconciliation_fingerprint": "sha256:e8f8567cb115b814d2ebedd6f3c3790d99938a0fdd966a4a3c520839afdc4ef4",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-archives:page:7e50307a0f0e2c99e83f094b",
+      "logical_id": "ufo-report-databases-8352a3-research-ufo-date-06f9e5-ufo-airfield-archive-caa348",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/airfield-records/",
+      "title": "Airfield Records",
+      "summary": "Searching nearby bases, airfields, police forces, and military districts can uncover records filed under institutions rather than the witness's town.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:67db9b5958559b7cc5272e9c"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "search-by-date",
+        "airfield-records"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:60094218d25522cff7627be1186c8691d26286fe22d601094ed4a2540ee13819",
+      "reconciliation_fingerprint": "sha256:9e9862b58ea7b0c32c75a495261fba9f2b65ea39721b21ebdf984af8e4788dfb",
+      "updated_at": "2026-07-30 14:31:37",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/airfield-records/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:d67dd7bf996df856ac013203",
+      "logical_id": "ufo-report-databases-8352a3-research-ufo-date-06f9e5-ufo-date-time-zone-s-c0a85a",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/time-shifts/",
+      "title": "Time Shifts",
+      "summary": "A sighting near midnight can appear on different dates once local time, daylight saving rules, and UTC are reconciled.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:67db9b5958559b7cc5272e9c"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "search-by-date",
+        "time-shifts"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:21d6bff91ef40f56d2593b20b10df3536a37c32e282755a6dd9265f363f3605c",
+      "reconciliation_fingerprint": "sha256:663220319d04b4eeda6dc00f63ed700f6be48f40e2f41619815a33756295096e",
+      "updated_at": "2026-07-30 14:31:36",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/time-shifts/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:789b1b6da426b23db192f7af",
+      "logical_id": "ufo-report-databases-8352a3-research-ufo-date-06f9e5-ufo-newspaper-date-s-8218f8",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/newspaper-check/",
+      "title": "Newspaper Check",
+      "summary": "Local newspapers can reveal police calls, meteors, aircraft activity, outages, and publicity surrounding a reported sighting.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:67db9b5958559b7cc5272e9c"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "search-by-date",
+        "newspaper-check"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:990d00987e7f9fd753c36a1eebe8174bbe02333b5564112692729bee6f7a7b3a",
+      "reconciliation_fingerprint": "sha256:fc82033350978184bb215105d13b77c095c163eda733370c1794015bbad9d867",
+      "updated_at": "2026-07-30 14:31:37",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/newspaper-check/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:a7faab9464fb5a4e23f0d347",
+      "logical_id": "ufo-report-databases-8352a3-research-ufo-date-06f9e5-ufo-search-radius-61e66a",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/search-radius/",
+      "title": "Search Radius",
+      "summary": "Nearby towns, counties, roads, and border regions can reveal related reports that an exact-place search misses.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:67db9b5958559b7cc5272e9c"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "search-by-date",
+        "search-radius"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:c5ab2512ff500705446d7b1bb684e7f2a06cf248cfa607c617c7fb7d17f4fe35",
+      "reconciliation_fingerprint": "sha256:f7ff0d1a20f45df3890e0736406c0406990a85969c72cd79d1770624335f40ec",
+      "updated_at": "2026-07-30 14:31:36",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/search-radius/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:cc206b0a3aa66b3726777d37",
+      "logical_id": "ufo-report-databases-8352a3-ufo-report-maps-bbf5c3",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/report-maps/",
+      "title": "Report Maps",
+      "summary": "Maps can reveal where reports concentrate, but population, publicity, database reach, and repeated records can create misleading hotspots.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-archives:page:68c01cb6bd1be29f2f77b50a"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "report-maps"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:ecb80da0bf2ed00708d19b4f6f9aaa9de8aa0aa77216b55850509f5f1b4d018d",
+      "reconciliation_fingerprint": "sha256:0ea2891a9edf44443737eedd3160567cf68d7ecbdecb3b8a54e447008c088a08",
+      "updated_at": "2026-07-29 02:51:58",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/report-maps/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:f65553b75a523d7383365c45",
+      "logical_id": "ufo-report-databases-8352a3-ufo-report-maps-bbf5c3-airspace-hotspot-con-b008dc",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/busy-airspace/",
+      "title": "Busy Airspace",
+      "summary": "Busy airspace can increase unfamiliar lights, observer attention, and report volume without proving that anomalous objects prefer those locations.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:cc206b0a3aa66b3726777d37"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "report-maps",
+        "busy-airspace"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:7bb386d353e99d2a5ba7adf4786c818689f9e884081a4669e1d94d7a880a3ef4",
+      "reconciliation_fingerprint": "sha256:787abcab7fe723781f926061715c8aeeb8d8cde3b8d74b9bc3af6e45e5a54da9",
+      "updated_at": "2026-07-30 14:31:35",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/busy-airspace/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:2791b2d113cb4baaca7ab6fb",
+      "logical_id": "ufo-report-databases-8352a3-ufo-report-maps-bbf5c3-database-map-differe-682c2b",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/database-maps/",
+      "title": "Database Maps",
+      "summary": "The same world can look very different when one catalogue uses public submissions and another relies on government investigation.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:cc206b0a3aa66b3726777d37"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "report-maps",
+        "database-maps"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:608083b6277fe75635cd6cdb5e249a99ee7f7f4473c44e0727b9fd589cc4c148",
+      "reconciliation_fingerprint": "sha256:5fa165657c0e8772558ef0aef310c255eb06f0f726da2c68bf6d65638b8d305a",
+      "updated_at": "2026-07-30 14:31:35",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/database-maps/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:b70fdfbf8c6bd4dde9a769cb",
+      "logical_id": "ufo-report-databases-8352a3-ufo-report-maps-bbf5c3-false-hotspots-geoco-3769a3",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/geocoding-bias/",
+      "title": "Geocoding Bias",
+      "summary": "Geocoding broad place names to a single downtown point can make scattered reports look like a concentrated urban hotspot.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:cc206b0a3aa66b3726777d37"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "report-maps",
+        "geocoding-bias"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:5a6ad07896d7ae3ab9f06ff03e96ed3b9f972f2f3c73c9086bda992b8428ead6",
+      "reconciliation_fingerprint": "sha256:b31df9f556b1f8cf2e51a3e3a94bd24b21bb0dfb0e28a5e62ac78d2565d91e99",
+      "updated_at": "2026-07-30 14:31:35",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/geocoding-bias/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:dde9db057f85888ec67a6709",
+      "logical_id": "ufo_report_databases_8352a3_ufo_report_maps_bbf5c3_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://ufo-archives.isaackoi.com/ufo-report-databases-8352a3-ufo-report/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Report Maps.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-archives:page:cc206b0a3aa66b3726777d37"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:6f17f24c5b62f4e75b771423d7c886a14e8c4a17290abdb7f9364bc2efbfbfdc",
+      "reconciliation_fingerprint": "sha256:1e0ab743e2c3f57febf2ddc7bd80506eb745fef803f2a41bc66c0719921c58db",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-archives:page:52cd7bbd45a163a2ebbb134c",
+      "logical_id": "ufo-report-databases-8352a3-ufo-report-maps-bbf5c3-rural-rate-small-num-d5a8f6",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/small-numbers/",
+      "title": "Small Numbers",
+      "summary": "A few reports can produce an eye-catching per-capita rate in a small county even when the underlying evidence is thin.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:cc206b0a3aa66b3726777d37"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "report-maps",
+        "small-numbers"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:a54ff33ef4d60a7e022e82c8d99d97c363faa3cab149291b706b3648a1a4deb9",
+      "reconciliation_fingerprint": "sha256:2aee5ce4b7f441c0591e937fa8d679fc6b8f6947e5ca00a04d157d234334dfc9",
+      "updated_at": "2026-07-30 14:31:35",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/small-numbers/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:d653dec490020e6d2f4a3d97",
+      "logical_id": "ufo-report-databases-8352a3-ufo-report-maps-bbf5c3-time-filters-event-c-7d15a4",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/time-filters/",
+      "title": "Time Filters",
+      "summary": "A permanent-looking cluster may disappear when reports are grouped by hour, revealing one shared meteor, satellite train, balloon, or re-entry.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:cc206b0a3aa66b3726777d37"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "report-maps",
+        "time-filters"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:891a2309582f46f628dfa47bbd7ec36638c1085006ba06e81e4918d300f27f85",
+      "reconciliation_fingerprint": "sha256:66caf8c25dbd0256ca53ce704c8251d0bc4fe073070a06b7156d5b868530df9b",
+      "updated_at": "2026-07-30 14:31:36",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/time-filters/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:9b04b7d77a28815629d5c9ac",
+      "logical_id": "ufo-report-databases-8352a3-ufo-reporting-bias-0838b6",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/reporting-bias/",
+      "title": "Reporting Bias",
+      "summary": "Public UFO databases measure who chooses to report and under what conditions, not the true frequency of unexplained objects.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-archives:page:68c01cb6bd1be29f2f77b50a"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "reporting-bias"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:6d926bcd04c19a1cf119de3d24790505561227bc2bb4e20be5d2f2330ffa2974",
+      "reconciliation_fingerprint": "sha256:ea25a2eef07d077272800cc02e2902f6d09c1540cf561a04d47db1054154bea0",
+      "updated_at": "2026-07-29 01:57:15",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/reporting-bias/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:b84323e8fe499b1aa8e3aa72",
+      "logical_id": "ufo-report-databases-8352a3-ufo-reporting-bias-0838b6-confidential-ufo-rep-f05dc1",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/confidential-channels/",
+      "title": "Confidential Channels",
+      "summary": "Confidential reporting systems can produce sudden increases by releasing testimony that witnesses previously withheld, without any rise in sightings.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:9b04b7d77a28815629d5c9ac"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "reporting-bias",
+        "confidential-channels"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:65ba50d15fbb4b7c5dac756928ea6725e745ef0fe9b716038223eeaccb33bfd9",
+      "reconciliation_fingerprint": "sha256:f7ec280b71e06cbd327d5047d238aa9533ca3902dfceb1afd849f568cabc1ef2",
+      "updated_at": "2026-07-30 14:57:40",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/confidential-channels/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:4ca4654495f65694ffc444e9",
+      "logical_id": "ufo_report_databases_8352a3_ufo_reporting_bias_0838b6_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://ufo-archives.isaackoi.com/ufo-report-databases-8352a3-ufo/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Reporting Bias.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-archives:page:9b04b7d77a28815629d5c9ac"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:bd70a253e649210892dde2f665443a9b05b4d49ec70a90a8280ce3ba9ecc76b0",
+      "reconciliation_fingerprint": "sha256:fdf3f724efe19e60947b70d2916d06e700896f9b1ce0ac2c9be03559303339f9",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-archives:page:92f7660ce5408d36f2255084",
+      "logical_id": "ufo-report-databases-8352a3-ufo-reporting-bias-0838b6-online-ufo-reporting-918f16",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/online-reporting/",
+      "title": "Online Reporting",
+      "summary": "Online forms lowered the effort needed to report a sighting, changing who entered the record and making long-term totals harder to compare.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:9b04b7d77a28815629d5c9ac"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "reporting-bias",
+        "online-reporting"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:d2c6d275b8e945065d8ab5ac069e1624cfc48211a6704d505bf6a66fd3daeb82",
+      "reconciliation_fingerprint": "sha256:e97894cff1ec3ee994329dc0114acd59d9fbe72b065e4e2ace56558982390fb9",
+      "updated_at": "2026-07-30 14:57:39",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/online-reporting/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:94b4c46c5a23c34bf3713caa",
+      "logical_id": "ufo-report-databases-8352a3-ufo-reporting-bias-0838b6-pilot-ufo-reporting-f9297e",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/pilot-silence/",
+      "title": "Pilot Silence",
+      "summary": "Pilots may see unusual aerial events more often than most people yet report less because professional stigma can outweigh the value of speaking up.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:9b04b7d77a28815629d5c9ac"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "reporting-bias",
+        "pilot-silence"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:9c9842f36d5980afab001d4aae699354e01ee4dcb458f14e41e7e5955e65cddb",
+      "reconciliation_fingerprint": "sha256:fe98a96e11c1008e31b1590c5d8b871c414389197bb685459e491d53b429ce28",
+      "updated_at": "2026-07-30 14:31:37",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/pilot-silence/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:1ab24c1b6c06e95690a361e9",
+      "logical_id": "ufo-report-databases-8352a3-ufo-reporting-bias-0838b6-ufo-memory-reconstru-bfe8d3",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/memory-changes/",
+      "title": "Memory Changes",
+      "summary": "News coverage, familiar UFO imagery and repeated retelling can become mixed with an older observation before a witness finally submits it.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:9b04b7d77a28815629d5c9ac"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "reporting-bias",
+        "memory-changes"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:4bc14632fb1487ce6f6e29ce8abba7b289a93632677a8ebecb4b115e85852ebc",
+      "reconciliation_fingerprint": "sha256:0254c27bf82afb543231fa0736ccf343150e296844f61bb9986fbffec4f7b302",
+      "updated_at": "2026-07-30 14:57:40",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/memory-changes/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:74baca916897781d39245310",
+      "logical_id": "ufo-report-databases-8352a3-ufo-reporting-bias-0838b6-ufo-reports-per-capi-074a6e",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/per-capita-rates/",
+      "title": "Per Capita Rates",
+      "summary": "Dividing sightings by population adjusts for observer numbers but cannot correct unequal sky access, tourism, internet use or willingness to report.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:9b04b7d77a28815629d5c9ac"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "reporting-bias",
+        "per-capita-rates"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:1afe4f9bd5abdbe3e122140cec721f346b3587a3f4f2ed2e36d4f1a49a769b14",
+      "reconciliation_fingerprint": "sha256:94b4fe95fd7ed025f94b504397f50d20fcd19bbd0626e03b2371103cdc44052a",
+      "updated_at": "2026-07-30 14:57:40",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/per-capita-rates/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:4f056020c95168c4da0c4b28",
+      "logical_id": "ufo-report-databases-8352a3-ufocat-research-cata-faf34d",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/ufocat/",
+      "title": "UFOCAT",
+      "summary": "UFOCAT connects reports scattered across books, periodicals, investigator files, and older databases, but its entries often require source-by-source",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-archives:page:68c01cb6bd1be29f2f77b50a"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "ufocat"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:39d8c91eae2d98c2ba4842430ca62a744fec053c90055fefb85993cd936178c8",
+      "reconciliation_fingerprint": "sha256:9dd2818f372cca55d0565156df23df73b9e16b3dca4350a443c1abee1eabfc53",
+      "updated_at": "2026-07-29 01:32:14",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/ufocat/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:4efb5d23a6026876d3312449",
+      "logical_id": "ufo-report-databases-8352a3-ufocat-research-cata-faf34d-civilian-vs-governme-d4f84c",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/archive-differences/",
+      "title": "Archive Differences",
+      "summary": "UFOCAT links records across private files, publications and official documents, while government archives preserve custody and administrative context.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:4f056020c95168c4da0c4b28"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "ufocat",
+        "archive-differences"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:072736c3647d6a40ad3308c9d579b78f26f6e22990bea15241a391f3ec49e6f3",
+      "reconciliation_fingerprint": "sha256:12a3e63f9928d2949872d18882d938367319611300acb2b9067b16c9c90806b5",
+      "updated_at": "2026-07-30 16:21:59",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/archive-differences/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:9ce07060234ed08f3107940d",
+      "logical_id": "ufo_report_databases_8352a3_ufocat_research_cata_faf34d_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://ufo-archives.isaackoi.com/ufo-report-databases-8352a3-ufocat/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on UFOCAT.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-archives:page:4f056020c95168c4da0c4b28"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:b150d1c627624eab168e147c44c635d92d64e7a7c171004e51e74c86ee51dbff",
+      "reconciliation_fingerprint": "sha256:01d9157015a36a3e62b1ce9eb16157d9e6fed4ff074b2c6f61c906abb44c800f",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-archives:page:2384b4ea70f23d88f1aebc10",
+      "logical_id": "ufo-report-databases-8352a3-ufocat-research-cata-faf34d-ufocat-database-resc-0aaf9a",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/database-rescue/",
+      "title": "Database Rescue",
+      "summary": "UFOCAT survived through copied tapes, damaged backups and format conversions carried out across informal research and institutional networks.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:4f056020c95168c4da0c4b28"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "ufocat",
+        "database-rescue"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:26a5e404ae06237b2c8548d74f84644b7a0da66179adabcf57fb2667e5b103cb",
+      "reconciliation_fingerprint": "sha256:39843e45174afc528d10b32d1a0943d823a58a54641e6d2851095430e2ed319a",
+      "updated_at": "2026-07-30 16:22:00",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/database-rescue/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:a95091b738346bc53394d74b",
+      "logical_id": "ufo-report-databases-8352a3-ufocat-research-cata-faf34d-ufocat-duplicate-ent-6243a0",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/duplicate-entries/",
+      "title": "Duplicate Entries",
+      "summary": "UFOCAT may list one event several times because each record can represent a different source in the same documentary chain.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:4f056020c95168c4da0c4b28"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "ufocat",
+        "duplicate-entries"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:92056069f692e3cfb4264277ced106909100a5410ec0d09016de0ba6d8af8dab",
+      "reconciliation_fingerprint": "sha256:6b5214f34420d3ecf9b856a608759bc4dc77d539feec01c6afa85f8a9bfdda5a",
+      "updated_at": "2026-07-30 16:22:03",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/duplicate-entries/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:2bbe1946fc01b4166fc886b3",
+      "logical_id": "ufo-report-databases-8352a3-ufocat-research-cata-faf34d-ufocat-source-access-68fc8c",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/access-levels/",
+      "title": "Access Levels",
+      "summary": "UFOCAT distinguishes open files, restricted witness records and confidential cases, shaping what researchers can verify for themselves.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:4f056020c95168c4da0c4b28"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "ufocat",
+        "access-levels"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:97173126ab494073724726d9ca28b42cb6746dc390b71dabef78e2d3673db67d",
+      "reconciliation_fingerprint": "sha256:e7687bb2c4cc13a6abe52c24ce8f10b1be16672e78879d433a154d14fc6efddb",
+      "updated_at": "2026-07-30 16:22:04",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/access-levels/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:7819332412189139fbf310db",
+      "logical_id": "ufo-report-databases-8352a3-ufocat-research-cata-faf34d-ufocat-source-trails-b14a56",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/source-trails/",
+      "title": "Source Trails",
+      "summary": "Direct and indirect source fields help readers follow a published UFO story toward earlier interviews, witness forms and investigator files.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:4f056020c95168c4da0c4b28"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "ufocat",
+        "source-trails"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:a5a214c0fcec55042f6906a32cd6fa02b8b6569a28638abe7906de1221f43a60",
+      "reconciliation_fingerprint": "sha256:5aa516b88d6cbec5613ff590912de94ac4f6c86984a049e9841e4fbff3d27f75",
+      "updated_at": "2026-07-30 16:22:05",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/source-trails/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:5c8a7fb56f2efb26908ff2f8",
+      "logical_id": "ufo-report-databases-8352a3-us-ufo-archives-130466",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/us-archives/",
+      "title": "US Archives",
+      "summary": "The US National Archives brings together UFO and UAP records from many agencies, formats, and record groups beyond Project Blue Book.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-archives:page:68c01cb6bd1be29f2f77b50a"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "us-archives"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:8160fbbdcb4354efb4ddb4ec61090d411bf06f1a37c50c252cc0eaa56581e207",
+      "reconciliation_fingerprint": "sha256:12d61ae031c2e961533c59235dfba06d47e2900e4f7ad81ac3feebedc796df3d",
+      "updated_at": "2026-07-29 00:15:30",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/us-archives/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:1748d7284621ec2a5ad14547",
+      "logical_id": "ufo_report_databases_8352a3_us_ufo_archives_130466_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://ufo-archives.isaackoi.com/ufo-report-databases-8352a3-us-ufo/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on US Archives.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "ufo-archives:page:5c8a7fb56f2efb26908ff2f8"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:25e8982b2d1e4c80ab508e4810943c08cc57f5673943280ff75484aabec50e06",
+      "reconciliation_fingerprint": "sha256:778aff4f6c61b0c1eab15a04e41c7e59dd6411e47b4a70bb26f8466a37e078dd",
+      "updated_at": "2026"
+    },
+    {
+      "id": "ufo-archives:page:4ece8bb132c431f242a269fb",
+      "logical_id": "ufo-report-databases-8352a3-us-ufo-archives-130466-jal-1628-faa-archive-ddbdd2",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/jal-1628-files/",
+      "title": "JAL 1628 Files",
+      "summary": "FAA records on Japan Airlines Flight 1628 preserve an aviation-centered view of the 1986 Alaska encounter, including traffic-control and public-information",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:5c8a7fb56f2efb26908ff2f8"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "us-archives",
+        "jal-1628-files"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:c6f3ce134e04ac35f21ff4081f5f888b8ec13866a57cf914d0e22d6f9f96b85c",
+      "reconciliation_fingerprint": "sha256:966cf7cbf75b47e9b95aa9a206f3cf44fb0935d92070e54491948a484d2c2eed",
+      "updated_at": "2026-07-29 00:15:31",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/jal-1628-files/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:c2e47097156a291faf59baf8",
+      "logical_id": "ufo-report-databases-8352a3-us-ufo-archives-130466-nara-uap-bulk-downlo-87c286",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/bulk-uap-data/",
+      "title": "Bulk UAP Data",
+      "summary": "NARA's bulk packages combine digital files with JSON metadata, but they require substantial cleaning before they can support statistical or computational study.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:5c8a7fb56f2efb26908ff2f8"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "us-archives",
+        "bulk-uap-data"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:701274ed5e5ebc934013ee2eab177f0e4de5b62ce814276e30c820d31a4f0703",
+      "reconciliation_fingerprint": "sha256:154b6171e36db12701e289b00da269df1cd99d40f7df4a83bd7388c5993ff7d2",
+      "updated_at": "2026-07-29 00:15:31",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/bulk-uap-data/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:62acb7395fd9de09ac06d6aa",
+      "logical_id": "ufo-report-databases-8352a3-us-ufo-archives-130466-record-group-615-acc-6fee98",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/record-group-615/",
+      "title": "Record Group 615",
+      "summary": "Record Group 615 creates a central UAP collection without replacing the older agency files where the original records remain.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:5c8a7fb56f2efb26908ff2f8"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "us-archives",
+        "record-group-615"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:a1a6010754274321e2ce4bb1915e90deb8aaab5d5a601ff50e374d7c03310f04",
+      "reconciliation_fingerprint": "sha256:c3edd6e94fdb9223efe9cc939ceab22d1cd6ce737d56ff715bce4cfc75f7c332",
+      "updated_at": "2026-07-29 00:15:32",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/record-group-615/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:5d2f82ad43bc492b602f8572",
+      "logical_id": "ufo-report-databases-8352a3-us-ufo-archives-130466-search-beyond-blue-b-f770d7",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/search-beyond-blue/",
+      "title": "Search Beyond Blue",
+      "summary": "Useful UFO records are scattered across aviation, intelligence, naval, space, diplomatic and public-affairs collections rather than one master file.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:5c8a7fb56f2efb26908ff2f8"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "us-archives",
+        "search-beyond-blue"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:3db836ff227136688694bb607fb8a93114c9f9e5b401695094d6a5b34ce39f96",
+      "reconciliation_fingerprint": "sha256:e6ccd9097a48db9c74d88cb86af713e06c7ba99c4ae98a261e37c7d84ccdb8f7",
+      "updated_at": "2026-07-29 00:15:31",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/search-beyond-blue/"
+      ]
+    },
+    {
+      "id": "ufo-archives:page:674d0b941053a39c21d70799",
+      "logical_id": "ufo-report-databases-8352a3-us-ufo-archives-130466-uap-redacted-postpon-7410dc",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-archives.isaackoi.com/redacted-records/",
+      "title": "Redacted Records",
+      "summary": "A listed UAP series may include public redactions, sealed attachments or postponed records that are not yet available for full inspection.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-archives:page:5c8a7fb56f2efb26908ff2f8"
+      },
+      "tags": [
+        "ufo-report-databases",
+        "us-archives",
+        "redacted-records"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:bfae86ec5098d7529d19b7a55ff612cff4c5b7ffc332e0f0127e0397e8af1587",
+      "reconciliation_fingerprint": "sha256:d5ae522035837d0260f0c86a8999a9be37a4b6e9de4e3730c2f781f178480bfb",
+      "updated_at": "2026-07-29 00:15:30",
+      "aliases": [
+        "https://ufo-archives.branchoria.com/redacted-records/"
+      ]
+    }
+  ]
+}

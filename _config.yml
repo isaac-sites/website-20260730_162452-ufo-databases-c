@@ -9,11 +9,11 @@ lang: 'en'
 locale: 'en'
 text_direction: 'ltr'
 direction: 'ltr'
-visual_profile: 'atlas'
+visual_profile: 'compact'
 site_visual_identity: 'signal-cobalt'
 site_visual_identity_source: 'remote_model'
 site_visual_identity_confidence: 'high'
-layout_archetype: 'atlas'
+layout_archetype: 'dossier'
 visual_palette: 'signal-cobalt'
 visual_motif: 'constellation'
 font_heading: 'Sora'
@@ -27,10 +27,18 @@ appearance_color_default: 'dark'
 mobile_layout_mode: 'article-first'
 mobile_sidebar_mode: 'collapsible'
 mobile_sidebar_default: 'closed'
-endnotes_mode: 'auto'
-endnotes_collapse_threshold: 3
+endnotes_mode: 'collapsed'
+endnotes_collapse_threshold: 4
 endnotes_initial_visible: 3
 endnotes_show_accessed: false
+social_cards_enabled: true
+social_infographic_candidates_enabled: true
+social_card_max_level: 0
+social_card_template_version: '2'
+social_preview_audit_enabled: true
+social_preview_contact_sheet_enabled: true
+native_share_enabled: true
+article_schema_enabled: true
 baseurl: ""
 url: "https://ufo-archives.isaackoi.com"
 ui_priority: 'home-first'
@@ -39,7 +47,7 @@ homepage_copy_policy: 'polished'
 home_layout_mode: 'vertical'
 auto_home_layout_mode: 'catalog'
 hierarchy_viz_mode: 'cluster-diagram'
-ui_bundle_version: 'build-1785424931'
+ui_bundle_version: 'build-1786638921'
 google_site_verification: ''
 draft_noindex: false
 theme: minima
@@ -197,9 +205,14 @@ ui_strings:
   report_actions: Report actions
   sources: sources
   graphics: graphics
+  share_page: Share
   copy_link: Copy link
+  download_social_image: Download image
   cite_page: Cite page
   print_save: Print / save
+  share_opened: Share dialog opened
+  share_unavailable: Sharing unavailable; link copied
+  social_image_downloaded: Image download started
   link_copied: Link copied
   citation_copied: Citation copied
   copy_failed: Copy failed
