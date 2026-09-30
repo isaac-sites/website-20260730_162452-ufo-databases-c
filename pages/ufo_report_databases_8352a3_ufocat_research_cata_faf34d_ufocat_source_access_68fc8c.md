@@ -278,6 +278,7 @@ next_link:
   short_title: Archive Differences
   heading_title: 'UFOCAT or Government Archive: What Does Each Preserve?'
 date: '2026-07-30 16:22:04 '
+last_modified_at: '2026-07-30 16:22:04 '
 header:
   og_image: /assets/images/ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_source_access_68fc8c-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_source_access_68fc8c-Illustration-1.webp

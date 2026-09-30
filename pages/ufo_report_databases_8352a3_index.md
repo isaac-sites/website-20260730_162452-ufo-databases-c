@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-report-databases-8352a3-index/
 description: Focused pages that expand on UFO Report Databases.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_report_databases_8352a3
 parent_title: UFO Report Databases

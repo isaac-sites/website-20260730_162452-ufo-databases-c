@@ -284,6 +284,7 @@ next_link:
   short_title: Duplicate Entries
   heading_title: Why One UFO Sighting Can Have Many Records
 date: '2026-07-30 16:22:00 '
+last_modified_at: '2026-07-30 16:22:00 '
 header:
   og_image: /assets/images/ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_database_resc_0aaf9a-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_database_resc_0aaf9a-Illustration-1.webp

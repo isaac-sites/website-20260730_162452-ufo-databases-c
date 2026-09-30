@@ -233,6 +233,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-29 01:57:15'
+last_modified_at: '2026-07-29 01:57:15'
 parent_title: UFO Archives
 parent_permalink: /ufo-report-databases/
 parent_nav_short_title: UFO Archives

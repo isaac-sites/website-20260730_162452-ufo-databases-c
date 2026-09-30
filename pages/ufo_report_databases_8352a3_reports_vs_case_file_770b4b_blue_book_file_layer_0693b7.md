@@ -278,6 +278,7 @@ next_link:
   short_title: Distance Errors
   heading_title: Why UFO Size and Speed Estimates Go Wrong
 date: '2026-07-30 16:21:53 '
+last_modified_at: '2026-07-30 16:21:53 '
 header:
   og_image: /assets/images/ufo_report_databases_8352a3_reports_vs_case_file_770b4b_blue_book_file_layer_0693b7-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_report_databases_8352a3_reports_vs_case_file_770b4b_blue_book_file_layer_0693b7-Illustration-1.webp
