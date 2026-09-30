@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-28 23:20:23'
+last_modified_at: '2026-07-28 23:20:23'
 parent_title: What Can NUFORC Reports Really Reveal? | UFO Archives
 parent_permalink: /nuforc/
 parent_nav_short_title: NUFORC

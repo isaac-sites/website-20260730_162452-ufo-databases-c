@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-28 23:50:34'
+last_modified_at: '2026-07-28 23:50:34'
 parent_title: What Did Project Blue Book Leave Unexplained? | UFO Archives
 parent_permalink: /blue-book/
 parent_nav_short_title: Blue Book

@@ -278,6 +278,7 @@ prev_link:
   short_title: Unexplained Cases
   heading_title: What Does an Unexplained UFO Case Actually Mean?
 date: '2026-07-30 16:21:58 '
+last_modified_at: '2026-07-30 16:21:58 '
 header:
   og_image: /assets/images/ufo_report_databases_8352a3_reports_vs_case_file_770b4b_ufo_viewing_geometry_3112a8-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_report_databases_8352a3_reports_vs_case_file_770b4b_ufo_viewing_geometry_3112a8-Illustration-1.webp

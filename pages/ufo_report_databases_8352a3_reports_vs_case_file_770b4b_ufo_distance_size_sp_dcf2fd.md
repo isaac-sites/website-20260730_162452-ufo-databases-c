@@ -284,6 +284,7 @@ next_link:
   short_title: Independent Witnesses
   heading_title: When Do Multiple UFO Witnesses Really Corroborate?
 date: '2026-07-30 16:21:57 '
+last_modified_at: '2026-07-30 16:21:57 '
 header:
   og_image: /assets/images/ufo_report_databases_8352a3_reports_vs_case_file_770b4b_ufo_distance_size_sp_dcf2fd-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_report_databases_8352a3_reports_vs_case_file_770b4b_ufo_distance_size_sp_dcf2fd-Illustration-1.webp
