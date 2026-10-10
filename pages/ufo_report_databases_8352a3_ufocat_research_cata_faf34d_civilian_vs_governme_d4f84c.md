@@ -284,6 +284,7 @@ next_link:
   short_title: Database Rescue
   heading_title: How UFOCAT Survived Lost Tapes and Dead Software
 date: '2026-07-30 16:21:59 '
+last_modified_at: '2026-07-30 16:21:59 '
 header:
   og_image: /assets/images/ufo_report_databases_8352a3_ufocat_research_cata_faf34d_civilian_vs_governme_d4f84c-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_report_databases_8352a3_ufocat_research_cata_faf34d_civilian_vs_governme_d4f84c-Illustration-1.webp

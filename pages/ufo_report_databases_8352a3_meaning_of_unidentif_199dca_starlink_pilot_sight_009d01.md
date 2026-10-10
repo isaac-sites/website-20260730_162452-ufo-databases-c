@@ -284,6 +284,7 @@ next_link:
   short_title: Unresolved Totals
   heading_title: What UFO Unresolved Percentages Actually Tell You
 date: '2026-07-30 16:21:43 '
+last_modified_at: '2026-07-30 16:21:43 '
 header:
   og_image: /assets/images/ufo_report_databases_8352a3_meaning_of_unidentif_199dca_starlink_pilot_sight_009d01-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_report_databases_8352a3_meaning_of_unidentif_199dca_starlink_pilot_sight_009d01-Illustration-1.webp

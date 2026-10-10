@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-28 23:50:30'
+last_modified_at: '2026-07-28 23:50:30'
 parent_title: How Much Evidence Does a MUFON Case Hold? | UFO Report Databases
 parent_permalink: /mufon/
 parent_nav_short_title: MUFON

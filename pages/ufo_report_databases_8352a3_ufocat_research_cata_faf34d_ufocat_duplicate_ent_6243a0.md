@@ -284,6 +284,7 @@ next_link:
   short_title: Source Trails
   heading_title: Can UFOCAT Lead Back to the Original Report?
 date: '2026-07-30 16:22:03 '
+last_modified_at: '2026-07-30 16:22:03 '
 header:
   og_image: /assets/images/ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_duplicate_ent_6243a0-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_report_databases_8352a3_ufocat_research_cata_faf34d_ufocat_duplicate_ent_6243a0-Illustration-1.webp

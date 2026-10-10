@@ -278,6 +278,7 @@ next_link:
   short_title: Infrared Effects
   heading_title: When Infrared Cameras Make UFOs Look Impossible
 date: '2026-07-30 16:21:43 '
+last_modified_at: '2026-07-30 16:21:43 '
 header:
   og_image: /assets/images/ufo_report_databases_8352a3_meaning_of_unidentif_199dca_gofast_motion_parall_80b7dc-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_report_databases_8352a3_meaning_of_unidentif_199dca_gofast_motion_parall_80b7dc-Illustration-1.webp

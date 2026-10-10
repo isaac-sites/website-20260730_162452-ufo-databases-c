@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-report-databases-8352a3-reports-vs/
 description: Focused pages that expand on Reports vs Files.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_report_databases_8352a3_reports_vs_case_file_770b4b
 parent_title: Reports vs Files | UFO Report Databases

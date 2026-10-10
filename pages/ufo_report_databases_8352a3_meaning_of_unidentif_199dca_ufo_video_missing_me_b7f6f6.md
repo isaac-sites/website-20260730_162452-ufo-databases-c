@@ -284,6 +284,7 @@ next_link:
   short_title: Starlink Pilots
   heading_title: How Starlink Fooled Five Experienced Airline Pilots
 date: '2026-07-30 16:21:46 '
+last_modified_at: '2026-07-30 16:21:46 '
 header:
   og_image: /assets/images/ufo_report_databases_8352a3_meaning_of_unidentif_199dca_ufo_video_missing_me_b7f6f6-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_report_databases_8352a3_meaning_of_unidentif_199dca_ufo_video_missing_me_b7f6f6-Illustration-1.webp

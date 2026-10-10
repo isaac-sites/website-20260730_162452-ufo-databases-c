@@ -284,6 +284,7 @@ next_link:
   short_title: Missing Metadata
   heading_title: Why UFO Videos Stay Unidentified Without Metadata
 date: '2026-07-30 16:21:19 '
+last_modified_at: '2026-07-30 16:21:19 '
 header:
   og_image: /assets/images/ufo_report_databases_8352a3_meaning_of_unidentif_199dca_infrared_ufo_sensor_4eaa20-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_report_databases_8352a3_meaning_of_unidentif_199dca_infrared_ufo_sensor_4eaa20-Illustration-1.webp
