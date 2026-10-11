@@ -410,7 +410,7 @@ The files are distributed among several DEFE series rather than assembled as a s
 
 This distinction matters. A DEFE 24 file may reveal how a secretariat answered a minister or member of the public, whereas a DEFE 31 file may show how defence intelligence assessed whether reports had military significance. Neither category should automatically be treated as a scientific investigation. The office function, correspondence trail and stated purpose of the file determine what its contents can establish.
 
-The best-known example is the Rendlesham Forest material. Relevant documents appear in more than one file, including a Ministry of Defence memorandum in **DEFE 24/1948** and parliamentary or public correspondence in nearby DEFE 24 files. Searching only for “Rendlesham” may find the prominently catalogued document, but browsing the surrounding series can reveal how the incident was subsequently discussed, copied and reframed within government.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">defe 241948</span><span class="citation-popover-snippet">defe 241948</span></span></span>
+The best-known example is the Rendlesham Forest material. Relevant documents appear in more than one file, including a Ministry of Defence memorandum in **DEFE 24/1948** and parliamentary or public correspondence in nearby DEFE 24 files. Searching only for “Rendlesham” may find the prominently catalogued document, but browsing the surrounding series can reveal how the incident was subsequently discussed, copied and reframed within government.<span class="citation-link-wrap">[National Archives]<span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">defe 241948</span><span class="citation-popover-snippet">defe 241948</span></span></span>
 
 ### AIR: the Air Ministry and Royal Air Force
 
@@ -1004,7 +1004,7 @@ Finally, distinguish between three layers of evidence: the original report, the 
 8.<a id="endnote-8"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 9.<a id="endnote-9"></a>
    Source: images.nationalarchives.gov.uk  
