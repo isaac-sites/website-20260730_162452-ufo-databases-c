@@ -963,7 +963,6 @@ A case that scores well across most of these criteria is generally far more valu
 
 19.<a id="endnote-19"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2023 — GRUNDSÄTZE GUTER WISSENSCHAFTLICHER PRAXIS FÜR DIE FORSCHUNG ZU UAP / UFOS DOWNLOADS * PDF In English: UAP Research Princip...</p></details>
    Published: May 5, 2023  
 

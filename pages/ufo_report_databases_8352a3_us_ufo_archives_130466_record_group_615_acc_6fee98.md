@@ -802,7 +802,6 @@ Rather than replacing historical UFO archives, Record Group 615 overlays them wi
 
 4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 04.2025 | National Archives...</p></details>
 
 5.<a id="endnote-5"></a>
@@ -826,11 +825,9 @@ Rather than replacing historical UFO archives, Record Group 615 overlays them wi
 
 8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 9.<a id="endnote-9"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 10.<a id="endnote-10"></a>
    Source: archives.gov  

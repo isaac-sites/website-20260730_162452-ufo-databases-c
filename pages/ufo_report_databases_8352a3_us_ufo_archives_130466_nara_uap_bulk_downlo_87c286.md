@@ -824,7 +824,6 @@ The bulk packages should therefore be understood as archival delivery mechanisms
 
 4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 26.2024 | National Archives...</p></details>
 
 5.<a id="endnote-5"></a>
@@ -833,7 +832,6 @@ The bulk packages should therefore be understood as archival delivery mechanisms
 
 6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 7.<a id="endnote-7"></a>
    Source: archives.gov  
@@ -841,7 +839,6 @@ The bulk packages should therefore be understood as archival delivery mechanisms
 
 8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 9.<a id="endnote-9"></a>
    Source: archives.gov  
